@@ -1,0 +1,2935 @@
+,state,stateabb,year,binge_all,binge_male,binge_female,poverty
+331,Texas,TX,2013,False,False,False,True
+338,Arizona,AZ,2017,False,False,False,True
+339,Missouri,MO,2014,False,False,False,True
+357,Mississippi,MS,2014,False,False,False,True
+373,West Virginia,WV,2014,False,False,False,True
+376,Missouri,MO,2014,False,False,False,True
+377,West Virginia,WV,2010,False,False,False,True
+420,California,CA,2013,False,False,False,True
+424,Mississippi,MS,2010,False,False,False,True
+438,Iowa,IA,2012,False,False,False,True
+465,Arkansas,AR,2014,False,False,False,True
+495,District of Columbia,DC,2018,False,False,False,True
+498,Pennsylvania,PA,2016,False,False,False,True
+534,Iowa,IA,2018,False,False,False,True
+553,California,CA,2017,False,False,False,True
+555,Iowa,IA,2010,False,False,False,True
+565,Tennessee,TN,2010,False,False,False,True
+568,West Virginia,WV,2016,False,False,False,True
+572,New Hampshire,NH,2017,False,False,False,True
+600,Florida,FL,2016,False,False,False,True
+623,Vermont,VT,2018,False,False,False,True
+632,Hawaii,HI,2017,False,False,False,True
+652,Wyoming,WY,2011,False,False,False,True
+679,Arizona,AZ,2013,False,False,False,True
+680,Illinois,IL,2015,False,False,False,True
+687,Kentucky,KY,2017,False,False,False,True
+693,Texas,TX,2018,False,False,False,True
+704,Alaska,AK,2016,False,False,False,True
+706,Texas,TX,2017,False,False,False,True
+710,Florida,FL,2013,False,False,False,True
+730,Vermont,VT,2014,False,False,False,True
+742,Puerto Rico,PR,2012,False,False,False,True
+755,North Carolina,NC,2011,False,False,False,True
+818,Colorado,CO,2018,False,False,False,True
+823,Kentucky,KY,2010,False,False,False,True
+850,Illinois,IL,2018,False,False,False,True
+855,Washington,WA,2013,False,False,False,True
+865,Nevada,NV,2016,False,False,False,True
+874,North Carolina,NC,2015,False,False,False,True
+883,Massachusetts,MA,2012,False,False,False,True
+901,Vermont,VT,2010,False,False,False,True
+902,South Carolina,SC,2017,False,False,False,True
+925,Louisiana,LA,2011,False,False,False,True
+931,Delaware,DE,2018,False,False,False,True
+973,New Hampshire,NH,2013,False,False,False,True
+974,Kansas,KS,2013,False,False,False,True
+1012,South Carolina,SC,2013,False,False,False,True
+1022,Kentucky,KY,2013,False,False,False,True
+1034,Mississippi,MS,2016,False,False,False,True
+1043,Wisconsin,WI,2016,False,False,False,True
+1056,Louisiana,LA,2015,False,False,False,True
+1057,South Dakota,SD,2012,False,False,False,True
+1066,Oklahoma,OK,2012,False,False,False,True
+1091,New Jersey,NJ,2015,False,False,False,True
+1104,Rhode Island,RI,2011,False,False,False,True
+1110,Kansas,KS,2017,False,False,False,True
+1116,Minnesota,MN,2016,False,False,False,True
+1120,South Dakota,SD,2010,False,False,False,True
+1122,Georgia,GA,2014,False,False,False,True
+1139,Oregon,OR,2010,False,False,False,True
+1147,United States,US,2017,False,False,False,True
+1163,New York,NY,2013,False,False,False,True
+1178,Michigan,MI,2016,False,False,False,True
+1183,New Mexico,NM,2013,False,False,False,True
+1199,West Virginia,WV,2010,False,False,False,True
+1216,Missouri,MO,2010,False,False,False,True
+1222,Colorado,CO,2017,False,False,False,True
+1241,United States,US,2010,False,False,False,True
+1262,District of Columbia,DC,2013,False,False,False,True
+1268,Florida,FL,2017,False,False,False,True
+1269,New Mexico,NM,2017,False,False,False,True
+1315,Hawaii,HI,2012,False,False,False,True
+1340,Puerto Rico,PR,2011,False,False,False,True
+1343,Idaho,ID,2018,False,False,False,True
+1349,Minnesota,MN,2010,False,False,False,True
+1350,Hawaii,HI,2013,False,False,False,True
+1370,Wyoming,WY,2018,False,False,False,True
+1385,Oklahoma,OK,2016,False,False,False,True
+1408,Iowa,IA,2013,False,False,False,True
+1434,Nevada,NV,2011,False,False,False,True
+1459,New York,NY,2010,False,False,False,True
+1460,Washington,WA,2017,False,False,False,True
+1463,Massachusetts,MA,2016,False,False,False,True
+1476,Ohio,OH,2013,False,False,False,True
+1479,Vermont,VT,2013,False,False,False,True
+1530,North Carolina,NC,2017,False,False,False,True
+1534,Alaska,AK,2012,False,False,False,True
+1538,Illinois,IL,2010,False,False,False,True
+1567,Connecticut,CT,2016,False,False,False,True
+1570,Rhode Island,RI,2018,False,False,False,True
+1584,Alabama,AL,2017,False,False,False,True
+1621,Maryland,MD,2010,False,False,False,True
+1635,Montana,MT,2015,False,False,False,True
+1638,Virginia,VA,2016,False,False,False,True
+1645,Delaware,DE,2012,False,False,False,True
+1661,North Dakota,ND,2016,False,False,False,True
+1679,Puerto Rico,PR,2015,False,False,False,True
+1680,North Dakota,ND,2012,False,False,False,True
+1702,Indiana,IN,2017,False,False,False,True
+1716,Connecticut,CT,2012,False,False,False,True
+1733,New York,NY,2014,False,False,False,True
+1740,Maryland,MD,2014,False,False,False,True
+1752,Michigan,MI,2014,False,False,False,True
+1758,Virginia,VA,2018,False,False,False,True
+1783,Virginia,VA,2017,False,False,False,True
+1792,Louisiana,LA,2017,False,False,False,True
+1807,Colorado,CO,2012,False,False,False,True
+1842,Rhode Island,RI,2012,False,False,False,True
+1889,Virginia,VA,2013,False,False,False,True
+1906,New Jersey,NJ,2016,False,False,False,True
+1908,Michigan,MI,2010,False,False,False,True
+1912,Minnesota,MN,2014,False,False,False,True
+1930,Colorado,CO,2016,False,False,False,True
+1931,United States,US,2013,False,False,False,True
+1955,Arkansas,AR,2010,False,False,False,True
+1962,Arizona,AZ,2012,False,False,False,True
+1971,Pennsylvania,PA,2012,False,False,False,True
+2009,New York,NY,2014,False,False,False,True
+2015,Missouri,MO,2010,False,False,False,True
+2016,South Dakota,SD,2015,False,False,False,True
+2021,Kansas,KS,2014,False,False,False,True
+2023,Utah,UT,2013,False,False,False,True
+2025,Georgia,GA,2010,False,False,False,True
+2027,North Dakota,ND,2018,False,False,False,True
+2037,Tennessee,TN,2014,False,False,False,True
+2051,Vermont,VT,2017,False,False,False,True
+2071,Indiana,IN,2013,False,False,False,True
+2076,Wisconsin,WI,2012,False,False,False,True
+2145,Texas,TX,2010,False,False,False,True
+2146,Wyoming,WY,2016,False,False,False,True
+2153,Iowa,IA,2017,False,False,False,True
+2180,California,CA,2018,False,False,False,True
+2214,Louisiana,LA,2014,False,False,False,True
+2285,New Jersey,NJ,2011,False,False,False,True
+2299,South Carolina,SC,2016,False,False,False,True
+2305,Montana,MT,2011,False,False,False,True
+2309,Washington,WA,2012,False,False,False,True
+2318,Ohio,OH,2017,False,False,False,True
+2321,Oregon,OR,2017,False,False,False,True
+2322,Illinois,IL,2014,False,False,False,True
+2353,Wyoming,WY,2012,False,False,False,True
+2366,Rhode Island,RI,2016,False,False,False,True
+2368,California,CA,2012,False,False,False,True
+2380,Virginia,VA,2012,False,False,False,True
+2394,Hawaii,HI,2016,False,False,False,True
+2397,Missouri,MO,2011,False,False,False,True
+2430,New Mexico,NM,2012,False,False,False,True
+2477,Tennessee,TN,2011,False,False,False,True
+2488,Utah,UT,2010,False,False,False,True
+2523,Alabama,AL,2013,False,False,False,True
+2545,Georgia,GA,2013,False,False,False,True
+2549,Puerto Rico,PR,2013,False,False,False,True
+2580,District of Columbia,DC,2015,False,False,False,True
+2589,Indiana,IN,2018,False,False,False,True
+2597,Vermont,VT,2014,False,False,False,True
+2599,New Hampshire,NH,2016,False,False,False,True
+2623,Washington,WA,2016,False,False,False,True
+2654,Pennsylvania,PA,2015,False,False,False,True
+2659,Florida,FL,2012,False,False,False,True
+2692,Idaho,ID,2013,False,False,False,True
+2752,Idaho,ID,2017,False,False,False,True
+2758,Arizona,AZ,2016,False,False,False,True
+2762,New Mexico,NM,2016,False,False,False,True
+2765,Delaware,DE,2016,False,False,False,True
+2766,Maine,ME,2013,False,False,False,True
+2839,Kansas,KS,2018,False,False,False,True
+2840,Massachusetts,MA,2011,False,False,False,True
+2862,Montana,MT,2013,False,False,False,True
+2868,New Jersey,NJ,2015,False,False,False,True
+2880,Texas,TX,2014,False,False,False,True
+2889,California,CA,2016,False,False,False,True
+2890,South Carolina,SC,2011,False,False,False,True
+2901,Alaska,AK,2018,False,False,False,True
+2914,Alaska,AK,2015,False,False,False,True
+2933,Wisconsin,WI,2015,False,False,False,True
+2949,Oklahoma,OK,2013,False,False,False,True
+2977,New Hampshire,NH,2012,False,False,False,True
+3008,Oklahoma,OK,2018,False,False,False,True
+3040,Nevada,NV,2015,False,False,False,True
+3050,Georgia,GA,2017,False,False,False,True
+3068,Maine,ME,2017,False,False,False,True
+3105,Puerto Rico,PR,2010,False,False,False,True
+3108,South Carolina,SC,2012,False,False,False,True
+3116,Massachusetts,MA,2015,False,False,False,True
+3153,California,CA,2010,False,False,False,True
+3164,Michigan,MI,2011,False,False,False,True
+3198,Nevada,NV,2012,False,False,False,True
+3208,Mississippi,MS,2012,False,False,False,True
+3236,Minnesota,MN,2015,False,False,False,True
+3238,South Carolina,SC,2015,False,False,False,True
+3275,Oklahoma,OK,2017,False,False,False,True
+3278,New Mexico,NM,2018,False,False,False,True
+3299,Illinois,IL,2011,False,False,False,True
+3310,North Dakota,ND,2013,False,False,False,True
+3346,Nebraska,NE,2017,False,False,False,True
+3354,Florida,FL,2018,False,False,False,True
+3367,District of Columbia,DC,2011,False,False,False,True
+3375,Ohio,OH,2014,False,False,False,True
+3387,Arizona,AZ,2016,False,False,False,True
+3409,Connecticut,CT,2013,False,False,False,True
+3424,Alabama,AL,2014,False,False,False,True
+3436,North Dakota,ND,2017,False,False,False,True
+3443,Colorado,CO,2013,False,False,False,True
+3451,Pennsylvania,PA,2011,False,False,False,True
+3461,Kentucky,KY,2014,False,False,False,True
+3472,Delaware,DE,2017,False,False,False,True
+3484,Hawaii,HI,2018,False,False,False,True
+3487,South Dakota,SD,2014,False,False,False,True
+3523,Tennessee,TN,2012,False,False,False,True
+3557,Montana,MT,2018,False,False,False,True
+3590,Maryland,MD,2015,False,False,False,True
+3634,Iowa,IA,2014,False,False,False,True
+3661,Tennessee,TN,2018,False,False,False,True
+3665,Missouri,MO,2015,False,False,False,True
+3682,United States,US,2014,False,False,False,True
+3698,Maryland,MD,2011,False,False,False,True
+3710,Alabama,AL,2014,False,False,False,True
+3723,Arizona,AZ,2012,False,False,False,True
+3739,North Carolina,NC,2012,False,False,False,True
+3770,Rhode Island,RI,2015,False,False,False,True
+3773,North Carolina,NC,2018,False,False,False,True
+3778,Utah,UT,2014,False,False,False,True
+3833,Minnesota,MN,2011,False,False,False,True
+3847,Puerto Rico,PR,2014,False,False,False,True
+3859,Wyoming,WY,2015,False,False,False,True
+3898,Indiana,IN,2014,False,False,False,True
+3906,Tennessee,TN,2015,False,False,False,True
+3910,Wisconsin,WI,2011,False,False,False,True
+3914,Nebraska,NE,2013,False,False,False,True
+3926,New Jersey,NJ,2010,False,False,False,True
+3928,Ohio,OH,2018,False,False,False,True
+3940,Montana,MT,2016,False,False,False,True
+3966,Ohio,OH,2010,False,False,False,True
+3974,District of Columbia,DC,2015,False,False,False,True
+3981,Louisiana,LA,2010,False,False,False,True
+3995,New York,NY,2017,False,False,False,True
+4006,Alaska,AK,2011,False,False,False,True
+4025,Washington,WA,2011,False,False,False,True
+4054,New Hampshire,NH,2015,False,False,False,True
+4063,Michigan,MI,2018,False,False,False,True
+4071,Colorado,CO,2010,False,False,False,True
+4072,South Dakota,SD,2018,False,False,False,True
+4103,Nebraska,NE,2017,False,False,False,True
+4106,Illinois,IL,2012,False,False,False,True
+4125,Kansas,KS,2015,False,False,False,True
+4128,Wisconsin,WI,2010,False,False,False,True
+4161,Montana,MT,2018,False,False,False,True
+4169,Oregon,OR,2014,False,False,False,True
+4194,Maryland,MD,2013,False,False,False,True
+4207,Wyoming,WY,2013,False,False,False,True
+4212,Arkansas,AR,2012,False,False,False,True
+4243,Nevada,NV,2010,False,False,False,True
+4266,Rhode Island,RI,2017,False,False,False,True
+4268,Utah,UT,2012,False,False,False,True
+4283,Delaware,DE,2015,False,False,False,True
+4293,Connecticut,CT,2014,False,False,False,True
+4304,South Carolina,SC,2015,False,False,False,True
+4308,New York,NY,2018,False,False,False,True
+4345,Missouri,MO,2012,False,False,False,True
+4359,Illinois,IL,2017,False,False,False,True
+4362,Montana,MT,2010,False,False,False,True
+4396,Puerto Rico,PR,2016,False,False,False,True
+4401,Louisiana,LA,2013,False,False,False,True
+4459,United States,US,2015,False,False,False,True
+4496,District of Columbia,DC,2014,False,False,False,True
+4555,Oregon,OR,2015,False,False,False,True
+4604,Florida,FL,2011,False,False,False,True
+4640,Connecticut,CT,2010,False,False,False,True
+4641,New Mexico,NM,2010,False,False,False,True
+4648,Arizona,AZ,2015,False,False,False,True
+4680,Minnesota,MN,2013,False,False,False,True
+4692,North Dakota,ND,2014,False,False,False,True
+4708,Wisconsin,WI,2014,False,False,False,True
+4722,Arizona,AZ,2018,False,False,False,True
+4727,New York,NY,2011,False,False,False,True
+4737,Maine,ME,2018,False,False,False,True
+4738,New Jersey,NJ,2013,False,False,False,True
+4739,Alaska,AK,2014,False,False,False,True
+4794,Montana,MT,2012,False,False,False,True
+4811,Ohio,OH,2016,False,False,False,True
+4817,Arizona,AZ,2010,False,False,False,True
+4827,Georgia,GA,2016,False,False,False,True
+4831,Delaware,DE,2011,False,False,False,True
+4846,Washington,WA,2015,False,False,False,True
+4853,District of Columbia,DC,2011,False,False,False,True
+4908,California,CA,2014,False,False,False,True
+4919,Indiana,IN,2010,False,False,False,True
+4922,United States,US,2015,False,False,False,True
+4927,Texas,TX,2015,False,False,False,True
+4936,Massachusetts,MA,2014,False,False,False,True
+4954,Minnesota,MN,2014,False,False,False,True
+4983,Arkansas,AR,2017,False,False,False,True
+5000,Kentucky,KY,2018,False,False,False,True
+5006,Virginia,VA,2015,False,False,False,True
+5008,Washington,WA,2018,False,False,False,True
+5020,Tennessee,TN,2013,False,False,False,True
+5033,New York,NY,2012,False,False,False,True
+5047,Utah,UT,2016,False,False,False,True
+5052,Pennsylvania,PA,2014,False,False,False,True
+5058,Wisconsin,WI,2018,False,False,False,True
+5075,South Dakota,SD,2017,False,False,False,True
+5078,South Carolina,SC,2011,False,False,False,True
+5102,Mississippi,MS,2015,False,False,False,True
+5144,Nebraska,NE,2013,False,False,False,True
+5171,New Hampshire,NH,2011,False,False,False,True
+5272,District of Columbia,DC,2010,False,False,False,True
+5277,Alabama,AL,2015,False,False,False,True
+5319,Ohio,OH,2010,False,False,False,True
+5353,Colorado,CO,2014,False,False,False,True
+5359,Tennessee,TN,2018,False,False,False,True
+5386,New Jersey,NJ,2010,False,False,False,True
+5397,Ohio,OH,2015,False,False,False,True
+5408,Iowa,IA,2017,False,False,False,True
+5419,Pennsylvania,PA,2010,False,False,False,True
+5421,Kansas,KS,2011,False,False,False,True
+5425,Nebraska,NE,2018,False,False,False,True
+5452,South Dakota,SD,2013,False,False,False,True
+5454,Utah,UT,2015,False,False,False,True
+5459,Alabama,AL,2011,False,False,False,True
+5467,Tennessee,TN,2012,False,False,False,True
+5487,United States,US,2018,False,False,False,True
+5501,Georgia,GA,2012,False,False,False,True
+5506,Iowa,IA,2013,False,False,False,True
+5508,Michigan,MI,2011,False,False,False,True
+5532,Delaware,DE,2010,False,False,False,True
+5539,United States,US,2011,False,False,False,True
+5571,Minnesota,MN,2010,False,False,False,True
+5580,North Dakota,ND,2010,False,False,False,True
+5588,Massachusetts,MA,2010,False,False,False,True
+5600,North Carolina,NC,2013,False,False,False,True
+5601,Tennessee,TN,2016,False,False,False,True
+5604,Iowa,IA,2015,False,False,False,True
+5614,Hawaii,HI,2010,False,False,False,True
+5631,Rhode Island,RI,2014,False,False,False,True
+5653,Delaware,DE,2014,False,False,False,True
+5660,Missouri,MO,2016,False,False,False,True
+5665,Nebraska,NE,2010,False,False,False,True
+5689,Ohio,OH,2014,False,False,False,True
+5697,Puerto Rico,PR,2015,False,False,False,True
+5702,Ohio,OH,2011,False,False,False,True
+5705,West Virginia,WV,2017,False,False,False,True
+5768,Oregon,OR,2012,False,False,False,True
+5786,Nebraska,NE,2014,False,False,False,True
+5820,Louisiana,LA,2018,False,False,False,True
+5823,Indiana,IN,2015,False,False,False,True
+5824,Arkansas,AR,2013,False,False,False,True
+5827,Virginia,VA,2011,False,False,False,True
+5840,Tennessee,TN,2017,False,False,False,True
+5843,Utah,UT,2011,False,False,False,True
+5857,New York,NY,2016,False,False,False,True
+5861,Montana,MT,2017,False,False,False,True
+5866,Alaska,AK,2010,False,False,False,True
+5900,District of Columbia,DC,2016,False,False,False,True
+5917,Virginia,VA,2010,False,False,False,True
+5960,Massachusetts,MA,2013,False,False,False,True
+5977,Texas,TX,2016,False,False,False,True
+5989,Missouri,MO,2013,False,False,False,True
+6004,Maine,ME,2015,False,False,False,True
+6045,West Virginia,WV,2011,False,False,False,True
+6050,Maryland,MD,2017,False,False,False,True
+6086,Kansas,KS,2010,False,False,False,True
+6120,Iowa,IA,2011,False,False,False,True
+6144,Oregon,OR,2011,False,False,False,True
+6145,Alaska,AK,2017,False,False,False,True
+6176,Arizona,AZ,2014,False,False,False,True
+6181,Nevada,NV,2017,False,False,False,True
+6188,Oklahoma,OK,2014,False,False,False,True
+6225,Indiana,IN,2016,False,False,False,True
+6228,California,CA,2015,False,False,False,True
+6232,Wyoming,WY,2014,False,False,False,True
+6246,West Virginia,WV,2015,False,False,False,True
+6249,Arkansas,AR,2015,False,False,False,True
+6252,Kentucky,KY,2016,False,False,False,True
+6275,Maryland,MD,2018,False,False,False,True
+6285,Illinois,IL,2013,False,False,False,True
+6296,Missouri,MO,2018,False,False,False,True
+6306,Nevada,NV,2013,False,False,False,True
+6314,North Carolina,NC,2010,False,False,False,True
+6322,Maine,ME,2011,False,False,False,True
+6333,Florida,FL,2014,False,False,False,True
+6344,West Virginia,WV,2013,False,False,False,True
+6350,Oregon,OR,2018,False,False,False,True
+6358,Oklahoma,OK,2010,False,False,False,True
+6376,Puerto Rico,PR,2017,False,False,False,True
+6406,Kansas,KS,2014,False,False,False,True
+6411,Texas,TX,2012,False,False,False,True
+6433,Nevada,NV,2018,False,False,False,True
+6439,North Carolina,NC,2014,False,False,False,True
+6441,Oregon,OR,2016,False,False,False,True
+6464,New Hampshire,NH,2014,False,False,False,True
+6479,Washington,WA,2014,False,False,False,True
+6516,Kentucky,KY,2012,False,False,False,True
+6518,Maryland,MD,2012,False,False,False,True
+6559,Minnesota,MN,2012,False,False,False,True
+6562,California,CA,2011,False,False,False,True
+6565,South Carolina,SC,2014,False,False,False,True
+6571,Hawaii,HI,2017,False,False,False,True
+6592,Pennsylvania,PA,2017,False,False,False,True
+6601,Louisiana,LA,2012,False,False,False,True
+6630,Nebraska,NE,2012,False,False,False,True
+6642,Florida,FL,2010,False,False,False,True
+6644,New Jersey,NJ,2018,False,False,False,True
+6657,Wisconsin,WI,2017,False,False,False,True
+6660,South Carolina,SC,2018,False,False,False,True
+6664,New Mexico,NM,2014,False,False,False,True
+6668,Georgia,GA,2015,False,False,False,True
+6685,New Jersey,NJ,2012,False,False,False,True
+6710,New Hampshire,NH,2010,False,False,False,True
+6721,Arkansas,AR,2010,False,False,False,True
+6722,District of Columbia,DC,2012,False,False,False,True
+6725,Minnesota,MN,2017,False,False,False,True
+6729,Louisiana,LA,2016,False,False,False,True
+6730,South Dakota,SD,2011,False,False,False,True
+6769,Massachusetts,MA,2017,False,False,False,True
+6781,Rhode Island,RI,2010,False,False,False,True
+6802,New York,NY,2010,False,False,False,True
+6804,Oklahoma,OK,2015,False,False,False,True
+6828,Mississippi,MS,2018,False,False,False,True
+6833,District of Columbia,DC,2017,False,False,False,True
+6834,Maine,ME,2018,False,False,False,True
+6846,Michigan,MI,2015,False,False,False,True
+6863,Wyoming,WY,2010,False,False,False,True
+6907,Virginia,VA,2017,False,False,False,True
+6914,Hawaii,HI,2014,False,False,False,True
+6919,Michigan,MI,2012,False,False,False,True
+6928,Maryland,MD,2013,False,False,False,True
+6961,New Hampshire,NH,2018,False,False,False,True
+6981,Vermont,VT,2012,False,False,False,True
+6989,Alaska,AK,2013,False,False,False,True
+7012,Delaware,DE,2018,False,False,False,True
+7013,Maryland,MD,2017,False,False,False,True
+7024,West Virginia,WV,2018,False,False,False,True
+7043,Idaho,ID,2015,False,False,False,True
+7087,Missouri,MO,2017,False,False,False,True
+7088,Arkansas,AR,2011,False,False,False,True
+7102,Ohio,OH,2012,False,False,False,True
+7117,Colorado,CO,2016,False,False,False,True
+7121,Indiana,IN,2011,False,False,False,True
+7128,Connecticut,CT,2015,False,False,False,True
+7131,Florida,FL,2015,False,False,False,True
+7153,United States,US,2014,False,False,False,True
+7165,North Dakota,ND,2015,False,False,False,True
+7177,Pennsylvania,PA,2013,False,False,False,True
+7192,Texas,TX,2013,False,False,False,True
+7201,South Carolina,SC,2010,False,False,False,True
+7210,North Carolina,NC,2016,False,False,False,True
+7233,Connecticut,CT,2011,False,False,False,True
+7238,Virginia,VA,2014,False,False,False,True
+7252,North Dakota,ND,2011,False,False,False,True
+7255,United States,US,2010,False,False,False,True
+7294,Utah,UT,2017,False,False,False,True
+7304,Nebraska,NE,2016,False,False,False,True
+7318,Montana,MT,2014,False,False,False,True
+7328,Michigan,MI,2013,False,False,False,True
+7336,District of Columbia,DC,2013,False,False,False,True
+7355,Alabama,AL,2018,False,False,False,True
+7366,Rhode Island,RI,2013,False,False,False,True
+7379,Alabama,AL,2016,False,False,False,True
+7383,Georgia,GA,2011,False,False,False,True
+7410,Maryland,MD,2016,False,False,False,True
+7417,Idaho,ID,2018,False,False,False,True
+7433,Texas,TX,2017,False,False,False,True
+7451,Nevada,NV,2014,False,False,False,True
+7468,New York,NY,2015,False,False,False,True
+7487,Massachusetts,MA,2018,False,False,False,True
+7490,Arizona,AZ,2011,False,False,False,True
+7503,Illinois,IL,2016,False,False,False,True
+7506,Colorado,CO,2011,False,False,False,True
+7510,Oregon,OR,2013,False,False,False,True
+7517,Iowa,IA,2016,False,False,False,True
+7523,Utah,UT,2018,False,False,False,True
+7537,New Jersey,NJ,2017,False,False,False,True
+7549,Arkansas,AR,2014,False,False,False,True
+7568,Wyoming,WY,2017,False,False,False,True
+7588,Oklahoma,OK,2011,False,False,False,True
+7598,Wisconsin,WI,2013,False,False,False,True
+7623,Texas,TX,2011,False,False,False,True
+7626,Colorado,CO,2015,False,False,False,True
+7641,Vermont,VT,2016,False,False,False,True
+7656,Idaho,ID,2011,False,False,False,True
+7672,Washington,WA,2010,False,False,False,True
+7685,Colorado,CO,2012,False,False,False,True
+7708,Idaho,ID,2016,False,False,False,True
+7745,Indiana,IN,2012,False,False,False,True
+7765,South Dakota,SD,2016,False,False,False,True
+7773,Oregon,OR,2016,False,False,False,True
+7777,Nevada,NV,2018,False,False,False,True
+7820,Nevada,NV,2015,False,False,False,True
+7832,Idaho,ID,2013,False,False,False,True
+7835,Washington,WA,2016,False,False,False,True
+7863,Louisiana,LA,2017,False,False,False,True
+7879,Maine,ME,2014,False,False,False,True
+7901,Nebraska,NE,2012,False,False,False,True
+7922,Rhode Island,RI,2015,False,False,False,True
+7926,Virginia,VA,2013,False,False,False,True
+7927,New Jersey,NJ,2016,False,False,False,True
+7955,Nebraska,NE,2011,False,False,False,True
+7958,Massachusetts,MA,2011,False,False,False,True
+7959,Michigan,MI,2010,False,False,False,True
+8000,California,CA,2016,False,False,False,True
+8003,Wyoming,WY,2016,False,False,False,True
+8008,Maine,ME,2010,False,False,False,True
+8028,Oklahoma,OK,2013,False,False,False,True
+8033,Utah,UT,2014,False,False,False,True
+8034,Arkansas,AR,2011,False,False,False,True
+8037,District of Columbia,DC,2018,False,False,False,True
+8077,Vermont,VT,2017,False,False,False,True
+8084,New Jersey,NJ,2012,False,False,False,True
+8105,Louisiana,LA,2015,False,False,False,True
+8127,Ohio,OH,2018,False,False,False,True
+8131,Indiana,IN,2013,False,False,False,True
+8132,Hawaii,HI,2014,False,False,False,True
+8134,Colorado,CO,2017,False,False,False,True
+8143,New Mexico,NM,2011,False,False,False,True
+8198,Maryland,MD,2015,False,False,False,True
+8214,Texas,TX,2012,False,False,False,True
+8215,New Mexico,NM,2015,False,False,False,True
+8301,Hawaii,HI,2011,False,False,False,True
+8316,Maine,ME,2011,False,False,False,True
+8334,South Carolina,SC,2017,False,False,False,True
+8338,Iowa,IA,2012,False,False,False,True
+8339,Pennsylvania,PA,2016,False,False,False,True
+8340,Oregon,OR,2017,False,False,False,True
+8358,California,CA,2012,False,False,False,True
+8392,Washington,WA,2012,False,False,False,True
+8425,Connecticut,CT,2018,False,False,False,True
+8442,Vermont,VT,2013,False,False,False,True
+8453,North Carolina,NC,2017,False,False,False,True
+8488,Indiana,IN,2017,False,False,False,True
+8504,Alaska,AK,2012,False,False,False,True
+8536,Delaware,DE,2013,False,False,False,True
+8541,Alaska,AK,2016,False,False,False,True
+8545,Maryland,MD,2011,False,False,False,True
+8560,Tennessee,TN,2011,False,False,False,True
+8594,North Dakota,ND,2016,False,False,False,True
+8634,South Carolina,SC,2010,False,False,False,True
+8640,Pennsylvania,PA,2018,False,False,False,True
+8644,Florida,FL,2013,False,False,False,True
+8652,Alabama,AL,2012,False,False,False,True
+8680,Connecticut,CT,2012,False,False,False,True
+8690,Michigan,MI,2013,False,False,False,True
+8706,Nebraska,NE,2016,False,False,False,True
+8709,Idaho,ID,2014,False,False,False,True
+8715,Colorado,CO,2018,False,False,False,True
+8731,South Carolina,SC,2014,False,False,False,True
+8762,Nebraska,NE,2015,False,False,False,True
+8773,North Carolina,NC,2015,False,False,False,True
+8792,Georgia,GA,2010,False,False,False,True
+8814,New Hampshire,NH,2013,False,False,False,True
+8832,United States,US,2013,False,False,False,True
+8834,Utah,UT,2018,False,False,False,True
+8882,West Virginia,WV,2015,False,False,False,True
+8889,Delaware,DE,2016,False,False,False,True
+8895,Idaho,ID,2017,False,False,False,True
+8899,Kentucky,KY,2013,False,False,False,True
+8917,Louisiana,LA,2011,False,False,False,True
+8939,Mississippi,MS,2017,False,False,False,True
+8949,Wisconsin,WI,2016,False,False,False,True
+8967,Oregon,OR,2010,False,False,False,True
+8970,South Dakota,SD,2012,False,False,False,True
+8978,Mississippi,MS,2011,False,False,False,True
+8981,United States,US,2016,False,False,False,True
+8985,Pennsylvania,PA,2012,False,False,False,True
+8995,South Dakota,SD,2010,False,False,False,True
+8997,Georgia,GA,2014,False,False,False,True
+9009,Mississippi,MS,2017,False,False,False,True
+9014,Ohio,OH,2012,False,False,False,True
+9065,Wisconsin,WI,2012,False,False,False,True
+9066,West Virginia,WV,2017,False,False,False,True
+9081,South Dakota,SD,2015,False,False,False,True
+9107,District of Columbia,DC,2012,False,False,False,True
+9143,Alabama,AL,2010,False,False,False,True
+9161,Idaho,ID,2012,False,False,False,True
+9178,Kentucky,KY,2010,False,False,False,True
+9185,District of Columbia,DC,2016,False,False,False,True
+9186,Tennessee,TN,2015,False,False,False,True
+9193,Maine,ME,2015,False,False,False,True
+9233,Puerto Rico,PR,2010,False,False,False,True
+9242,Wyoming,WY,2018,False,False,False,True
+9275,Texas,TX,2016,False,False,False,True
+9312,Massachusetts,MA,2016,False,False,False,True
+9316,Oklahoma,OK,2017,False,False,False,True
+9320,California,CA,2010,False,False,False,True
+9367,Nevada,NV,2012,False,False,False,True
+9389,Arkansas,AR,2015,False,False,False,True
+9441,Rhode Island,RI,2016,False,False,False,True
+9451,Indiana,IN,2018,False,False,False,True
+9458,North Dakota,ND,2012,False,False,False,True
+9504,Alabama,AL,2015,False,False,False,True
+9511,Connecticut,CT,2016,False,False,False,True
+9527,Vermont,VT,2018,False,False,False,True
+9531,New Hampshire,NH,2017,False,False,False,True
+9560,Kentucky,KY,2017,False,False,False,True
+9574,Montana,MT,2015,False,False,False,True
+9575,Wyoming,WY,2011,False,False,False,True
+9583,Idaho,ID,2010,False,False,False,True
+9588,Puerto Rico,PR,2013,False,False,False,True
+9591,Utah,UT,2010,False,False,False,True
+9593,Illinois,IL,2015,False,False,False,True
+9608,Ohio,OH,2016,False,False,False,True
+9638,Arizona,AZ,2013,False,False,False,True
+9658,Colorado,CO,2013,False,False,False,True
+9659,North Carolina,NC,2011,False,False,False,True
+9665,Pennsylvania,PA,2015,False,False,False,True
+9688,Florida,FL,2012,False,False,False,True
+9689,Virginia,VA,2018,False,False,False,True
+9699,Nevada,NV,2016,False,False,False,True
+9711,Illinois,IL,2018,False,False,False,True
+9728,Maryland,MD,2014,False,False,False,True
+9733,United States,US,2011,False,False,False,True
+9748,Hawaii,HI,2010,False,False,False,True
+9771,Nebraska,NE,2010,False,False,False,True
+9784,Missouri,MO,2015,False,False,False,True
+9837,Kansas,KS,2012,False,False,False,True
+9866,Kansas,KS,2018,False,False,False,True
+9890,New Mexico,NM,2016,False,False,False,True
+9899,North Carolina,NC,2012,False,False,False,True
+9936,Wyoming,WY,2015,False,False,False,True
+9955,Montana,MT,2013,False,False,False,True
+9958,Arkansas,AR,2013,False,False,False,True
+9967,Alaska,AK,2015,False,False,False,True
+9983,Utah,UT,2013,False,False,False,True
+9990,Arizona,AZ,2018,False,False,False,True
+9995,Nevada,NV,2011,False,False,False,True
+10014,Florida,FL,2017,False,False,False,True
+10032,Indiana,IN,2014,False,False,False,True
+10033,Arizona,AZ,2017,False,False,False,True
+10042,Alaska,AK,2011,False,False,False,True
+10070,Vermont,VT,2015,False,False,False,True
+10088,Washington,WA,2018,False,False,False,True
+10103,Montana,MT,2016,False,False,False,True
+10113,Kansas,KS,2012,False,False,False,True
+10125,Kansas,KS,2011,False,False,False,True
+10130,Idaho,ID,2014,False,False,False,True
+10156,Vermont,VT,2011,False,False,False,True
+10168,Kansas,KS,2016,False,False,False,True
+10183,Louisiana,LA,2010,False,False,False,True
+10207,West Virginia,WV,2013,False,False,False,True
+10217,Louisiana,LA,2014,False,False,False,True
+10254,Maine,ME,2016,False,False,False,True
+10271,Arkansas,AR,2018,False,False,False,True
+10275,Hawaii,HI,2015,False,False,False,True
+10293,Mississippi,MS,2013,False,False,False,True
+10296,Arkansas,AR,2017,False,False,False,True
+10354,Mississippi,MS,2013,False,False,False,True
+10385,Iowa,IA,2011,False,False,False,True
+10386,West Virginia,WV,2011,False,False,False,True
+10395,Connecticut,CT,2017,False,False,False,True
+10411,Oklahoma,OK,2012,False,False,False,True
+10446,Connecticut,CT,2013,False,False,False,True
+10452,Rhode Island,RI,2012,False,False,False,True
+10458,Michigan,MI,2017,False,False,False,True
+10494,Montana,MT,2011,False,False,False,True
+10495,New Mexico,NM,2012,False,False,False,True
+10500,District of Columbia,DC,2010,False,False,False,True
+10506,California,CA,2013,False,False,False,True
+10547,Washington,WA,2013,False,False,False,True
+10550,New Jersey,NJ,2014,False,False,False,True
+10558,Kentucky,KY,2014,False,False,False,True
+10561,Delaware,DE,2012,False,False,False,True
+10562,South Dakota,SD,2014,False,False,False,True
+10564,North Dakota,ND,2017,False,False,False,True
+10567,Maryland,MD,2010,False,False,False,True
+10615,District of Columbia,DC,2014,False,False,False,True
+10623,New York,NY,2015,False,False,False,True
+10643,Georgia,GA,2017,False,False,False,True
+10658,Texas,TX,2011,False,False,False,True
+10670,Alabama,AL,2011,False,False,False,True
+10716,Michigan,MI,2014,False,False,False,True
+10725,New Hampshire,NH,2012,False,False,False,True
+10738,Iowa,IA,2014,False,False,False,True
+10745,United States,US,2012,False,False,False,True
+10765,Hawaii,HI,2013,False,False,False,True
+10768,Minnesota,MN,2011,False,False,False,True
+10776,Maine,ME,2012,False,False,False,True
+10811,Arkansas,AR,2016,False,False,False,True
+10852,North Carolina,NC,2018,False,False,False,True
+10871,Wisconsin,WI,2015,False,False,False,True
+10883,Georgia,GA,2018,False,False,False,True
+10885,Alaska,AK,2018,False,False,False,True
+10893,Louisiana,LA,2018,False,False,False,True
+10896,Puerto Rico,PR,2014,False,False,False,True
+10916,Oklahoma,OK,2018,False,False,False,True
+10965,Wisconsin,WI,2011,False,False,False,True
+11008,Nebraska,NE,2014,False,False,False,True
+11024,New Mexico,NM,2017,False,False,False,True
+11042,New York,NY,2011,False,False,False,True
+11054,Ohio,OH,2011,False,False,False,True
+11071,California,CA,2018,False,False,False,True
+11121,Kansas,KS,2015,False,False,False,True
+11130,Puerto Rico,PR,2011,False,False,False,True
+11153,Minnesota,MN,2018,False,False,False,True
+11199,Illinois,IL,2014,False,False,False,True
+11227,Massachusetts,MA,2015,False,False,False,True
+11230,Minnesota,MN,2015,False,False,False,True
+11248,Texas,TX,2015,False,False,False,True
+11252,Connecticut,CT,2018,False,False,False,True
+11272,Virginia,VA,2012,False,False,False,True
+11288,New Hampshire,NH,2016,False,False,False,True
+11298,North Dakota,ND,2013,False,False,False,True
+11312,California,CA,2017,False,False,False,True
+11314,Illinois,IL,2010,False,False,False,True
+11328,Washington,WA,2017,False,False,False,True
+11333,Florida,FL,2018,False,False,False,True
+11345,Delaware,DE,2013,False,False,False,True
+11348,Wyoming,WY,2012,False,False,False,True
+11356,Colorado,CO,2014,False,False,False,True
+11371,Ohio,OH,2015,False,False,False,True
+11391,Iowa,IA,2010,False,False,False,True
+11392,Virginia,VA,2016,False,False,False,True
+11393,Oklahoma,OK,2016,False,False,False,True
+11395,Missouri,MO,2011,False,False,False,True
+11405,Hawaii,HI,2018,False,False,False,True
+11411,Pennsylvania,PA,2011,False,False,False,True
+11425,Texas,TX,2018,False,False,False,True
+11463,Georgia,GA,2013,False,False,False,True
+11488,Puerto Rico,PR,2012,False,False,False,True
+11536,Washington,WA,2014,False,False,False,True
+11547,Kansas,KS,2013,False,False,False,True
+11552,Iowa,IA,2016,False,False,False,True
+11559,Vermont,VT,2011,False,False,False,True
+11566,Hawaii,HI,2015,False,False,False,True
+11574,Montana,MT,2017,False,False,False,True
+11585,California,CA,2011,False,False,False,True
+11599,New Mexico,NM,2013,False,False,False,True
+11624,Rhode Island,RI,2013,False,False,False,True
+11658,North Carolina,NC,2013,False,False,False,True
+11660,Nevada,NV,2014,False,False,False,True
+11663,Tennessee,TN,2016,False,False,False,True
+11678,United States,US,2012,False,False,False,True
+11690,Minnesota,MN,2016,False,False,False,True
+11703,Massachusetts,MA,2010,False,False,False,True
+11705,Georgia,GA,2018,False,False,False,True
+11722,New Mexico,NM,2015,False,False,False,True
+11741,Missouri,MO,2016,False,False,False,True
+11761,Rhode Island,RI,2011,False,False,False,True
+11780,Oregon,OR,2012,False,False,False,True
+11811,Connecticut,CT,2017,False,False,False,True
+11818,Alaska,AK,2010,False,False,False,True
+11832,Oklahoma,OK,2011,False,False,False,True
+11846,Montana,MT,2012,False,False,False,True
+11861,Michigan,MI,2017,False,False,False,True
+11866,Maine,ME,2012,False,False,False,True
+11871,Alaska,AK,2014,False,False,False,True
+11890,Ohio,OH,2017,False,False,False,True
+11900,Florida,FL,2011,False,False,False,True
+11918,Virginia,VA,2011,False,False,False,True
+11937,Illinois,IL,2012,False,False,False,True
+11941,Washington,WA,2010,False,False,False,True
+11943,New Jersey,NJ,2014,False,False,False,True
+11967,Oklahoma,OK,2015,False,False,False,True
+11971,Maine,ME,2016,False,False,False,True
+11982,Arkansas,AR,2012,False,False,False,True
+11998,Indiana,IN,2015,False,False,False,True
+12004,Pennsylvania,PA,2018,False,False,False,True
+12031,Virginia,VA,2015,False,False,False,True
+12051,Massachusetts,MA,2014,False,False,False,True
+12052,Massachusetts,MA,2013,False,False,False,True
+12074,New Hampshire,NH,2015,False,False,False,True
+12080,Kentucky,KY,2018,False,False,False,True
+12087,Arkansas,AR,2016,False,False,False,True
+12111,West Virginia,WV,2012,False,False,False,True
+12115,Wisconsin,WI,2018,False,False,False,True
+12135,Hawaii,HI,2016,False,False,False,True
+12153,West Virginia,WV,2012,False,False,False,True
+12161,Maine,ME,2017,False,False,False,True
+12202,New Hampshire,NH,2011,False,False,False,True
+12210,Wyoming,WY,2013,False,False,False,True
+12250,Mississippi,MS,2014,False,False,False,True
+12256,Nevada,NV,2017,False,False,False,True
+12271,Montana,MT,2010,False,False,False,True
+12281,New Mexico,NM,2018,False,False,False,True
+12308,West Virginia,WV,2014,False,False,False,True
+12315,Mississippi,MS,2012,False,False,False,True
+12325,New Mexico,NM,2011,False,False,False,True
+12326,California,CA,2015,False,False,False,True
+12359,South Carolina,SC,2012,False,False,False,True
+12402,Louisiana,LA,2013,False,False,False,True
+12425,Vermont,VT,2015,False,False,False,True
+12453,Oklahoma,OK,2014,False,False,False,True
+12455,South Dakota,SD,2013,False,False,False,True
+12505,Alabama,AL,2012,False,False,False,True
+12548,Kentucky,KY,2015,False,False,False,True
+12553,Kentucky,KY,2015,False,False,False,True
+12554,Georgia,GA,2012,False,False,False,True
+12567,New York,NY,2016,False,False,False,True
+12615,North Dakota,ND,2010,False,False,False,True
+12617,Missouri,MO,2012,False,False,False,True
+12637,Connecticut,CT,2010,False,False,False,True
+12641,Maryland,MD,2016,False,False,False,True
+12652,Maine,ME,2013,False,False,False,True
+12680,Minnesota,MN,2012,False,False,False,True
+12687,North Dakota,ND,2014,False,False,False,True
+12690,Wisconsin,WI,2014,False,False,False,True
+12694,Kansas,KS,2016,False,False,False,True
+12697,Maryland,MD,2012,False,False,False,True
+12706,New York,NY,2012,False,False,False,True
+12739,Colorado,CO,2015,False,False,False,True
+12778,Idaho,ID,2016,False,False,False,True
+12800,Arizona,AZ,2010,False,False,False,True
+12861,Texas,TX,2014,False,False,False,True
+12875,Kentucky,KY,2011,False,False,False,True
+12890,Pennsylvania,PA,2010,False,False,False,True
+12901,Indiana,IN,2010,False,False,False,True
+12909,Georgia,GA,2016,False,False,False,True
+12935,New Hampshire,NH,2018,False,False,False,True
+12943,Colorado,CO,2010,False,False,False,True
+12946,South Dakota,SD,2018,False,False,False,True
+12994,Pennsylvania,PA,2014,False,False,False,True
+13006,Wisconsin,WI,2010,False,False,False,True
+13013,Minnesota,MN,2018,False,False,False,True
+13018,New York,NY,2018,False,False,False,True
+13030,Idaho,ID,2015,False,False,False,True
+13053,South Dakota,SD,2017,False,False,False,True
+13076,Oregon,OR,2014,False,False,False,True
+13092,Mississippi,MS,2015,False,False,False,True
+13106,New Jersey,NJ,2018,False,False,False,True
+13124,Missouri,MO,2017,False,False,False,True
+13143,Nebraska,NE,2018,False,False,False,True
+13149,Illinois,IL,2011,False,False,False,True
+13158,Florida,FL,2015,False,False,False,True
+13164,Connecticut,CT,2014,False,False,False,True
+13180,Oklahoma,OK,2010,False,False,False,True
+13247,Illinois,IL,2017,False,False,False,True
+13248,Vermont,VT,2010,False,False,False,True
+13262,Nevada,NV,2013,False,False,False,True
+13263,Alabama,AL,2017,False,False,False,True
+13284,Idaho,ID,2010,False,False,False,True
+13313,Idaho,ID,2012,False,False,False,True
+13327,Michigan,MI,2012,False,False,False,True
+13336,Utah,UT,2017,False,False,False,True
+13353,Puerto Rico,PR,2017,False,False,False,True
+13385,Rhode Island,RI,2014,False,False,False,True
+13410,New Hampshire,NH,2014,False,False,False,True
+13413,Massachusetts,MA,2012,False,False,False,True
+13421,Alabama,AL,2018,False,False,False,True
+13428,Utah,UT,2011,False,False,False,True
+13444,Oregon,OR,2015,False,False,False,True
+13456,Massachusetts,MA,2018,False,False,False,True
+13494,Colorado,CO,2011,False,False,False,True
+13505,Iowa,IA,2015,False,False,False,True
+13519,Arizona,AZ,2015,False,False,False,True
+13522,Oregon,OR,2013,False,False,False,True
+13558,New Jersey,NJ,2017,False,False,False,True
+13569,Illinois,IL,2016,False,False,False,True
+13576,Pennsylvania,PA,2017,False,False,False,True
+13590,Delaware,DE,2014,False,False,False,True
+13591,Vermont,VT,2016,False,False,False,True
+13603,Minnesota,MN,2017,False,False,False,True
+13625,United States,US,2016,False,False,False,True
+13638,Nebraska,NE,2011,False,False,False,True
+13645,New Jersey,NJ,2013,False,False,False,True
+13652,Arizona,AZ,2011,False,False,False,True
+13659,Florida,FL,2010,False,False,False,True
+13666,New Mexico,NM,2014,False,False,False,True
+13669,Washington,WA,2015,False,False,False,True
+13677,Massachusetts,MA,2017,False,False,False,True
+13693,Arkansas,AR,2018,False,False,False,True
+13712,Louisiana,LA,2016,False,False,False,True
+13725,Rhode Island,RI,2010,False,False,False,True
+13756,District of Columbia,DC,2017,False,False,False,True
+13792,California,CA,2014,False,False,False,True
+13793,Rhode Island,RI,2018,False,False,False,True
+13808,Indiana,IN,2012,False,False,False,True
+13848,Virginia,VA,2010,False,False,False,True
+13883,South Carolina,SC,2013,False,False,False,True
+13914,Michigan,MI,2016,False,False,False,True
+13923,Alaska,AK,2013,False,False,False,True
+13932,Vermont,VT,2012,False,False,False,True
+14002,Puerto Rico,PR,2018,False,False,False,True
+14007,Washington,WA,2011,False,False,False,True
+14010,South Carolina,SC,2016,False,False,False,True
+14029,Iowa,IA,2018,False,False,False,True
+14038,Indiana,IN,2011,False,False,False,True
+14040,Alaska,AK,2017,False,False,False,True
+14050,Tennessee,TN,2010,False,False,False,True
+14067,Florida,FL,2016,False,False,False,True
+14096,North Dakota,ND,2015,False,False,False,True
+14099,Mississippi,MS,2011,False,False,False,True
+14109,Missouri,MO,2018,False,False,False,True
+14122,North Carolina,NC,2016,False,False,False,True
+14145,Alabama,AL,2013,False,False,False,True
+14166,Hawaii,HI,2012,False,False,False,True
+14174,Connecticut,CT,2011,False,False,False,True
+14175,Maine,ME,2010,False,False,False,True
+14191,Virginia,VA,2014,False,False,False,True
+14235,Illinois,IL,2013,False,False,False,True
+14255,Florida,FL,2014,False,False,False,True
+14266,United States,US,2018,False,False,False,True
+14278,North Carolina,NC,2014,False,False,False,True
+14282,Louisiana,LA,2012,False,False,False,True
+14286,Utah,UT,2015,False,False,False,True
+14348,New York,NY,2017,False,False,False,True
+14353,Georgia,GA,2011,False,False,False,True
+14358,Delaware,DE,2010,False,False,False,True
+14384,Delaware,DE,2017,False,False,False,True
+14393,Kentucky,KY,2012,False,False,False,True
+14395,Minnesota,MN,2013,False,False,False,True
+14424,Wisconsin,WI,2013,False,False,False,True
+14463,Hawaii,HI,2011,False,False,False,True
+14512,Wyoming,WY,2017,False,False,False,True
+14533,United States,US,2017,False,False,False,True
+14545,South Carolina,SC,2018,False,False,False,True
+14552,Georgia,GA,2015,False,False,False,True
+14561,Wisconsin,WI,2017,False,False,False,True
+14564,New Mexico,NM,2010,False,False,False,True
+14577,Idaho,ID,2011,False,False,False,True
+14583,New Hampshire,NH,2010,False,False,False,True
+14586,South Dakota,SD,2011,False,False,False,True
+14599,Tennessee,TN,2014,False,False,False,True
+14604,Texas,TX,2010,False,False,False,True
+14646,Delaware,DE,2011,False,False,False,True
+14653,New Jersey,NJ,2011,False,False,False,True
+14657,Wyoming,WY,2010,False,False,False,True
+14672,Kansas,KS,2017,False,False,False,True
+14673,Michigan,MI,2015,False,False,False,True
+14689,Tennessee,TN,2017,False,False,False,True
+14715,Mississippi,MS,2018,False,False,False,True
+14721,Kentucky,KY,2011,False,False,False,True
+14742,West Virginia,WV,2016,False,False,False,True
+14753,South Dakota,SD,2016,False,False,False,True
+14775,Michigan,MI,2018,False,False,False,True
+14804,Nevada,NV,2010,False,False,False,True
+14831,Missouri,MO,2013,False,False,False,True
+14837,Utah,UT,2016,False,False,False,True
+14846,Maine,ME,2014,False,False,False,True
+14898,North Dakota,ND,2018,False,False,False,True
+14913,West Virginia,WV,2018,False,False,False,True
+14916,Rhode Island,RI,2017,False,False,False,True
+14920,New York,NY,2013,False,False,False,True
+14941,Alabama,AL,2010,False,False,False,True
+14958,Puerto Rico,PR,2018,False,False,False,True
+14969,Mississippi,MS,2016,False,False,False,True
+14982,Oregon,OR,2018,False,False,False,True
+14994,Arizona,AZ,2014,False,False,False,True
+14997,Oregon,OR,2011,False,False,False,True
+15048,Connecticut,CT,2015,False,False,False,True
+15053,Ohio,OH,2013,False,False,False,True
+15060,Pennsylvania,PA,2013,False,False,False,True
+15073,Mississippi,MS,2010,False,False,False,True
+15081,Wyoming,WY,2014,False,False,False,True
+15102,Alabama,AL,2016,False,False,False,True
+15103,Indiana,IN,2016,False,False,False,True
+15104,Kentucky,KY,2016,False,False,False,True
+15106,Delaware,DE,2015,False,False,False,True
+15134,Puerto Rico,PR,2016,False,False,False,True
+15137,North Carolina,NC,2010,False,False,False,True
+15143,Maryland,MD,2018,False,False,False,True
+15175,Kansas,KS,2010,False,False,False,True
+15177,North Dakota,ND,2011,False,False,False,True
+15178,Tennessee,TN,2013,False,False,False,True
+15189,Utah,UT,2012,False,False,False,True
+15232,Nebraska,NE,2015,False,False,False,True
+15233,Montana,MT,2014,False,False,False,True
+397556,Alaska,AK,2012,True,False,True,False
+399217,Georgia,GA,2018,True,True,False,False
+401499,Indiana,IN,2019,True,False,True,False
+403138,Arizona,AZ,2012,True,False,True,False
+404336,Indiana,IN,2013,True,False,True,False
+404352,Hawaii,HI,2016,True,False,True,False
+404378,Kansas,KS,2019,True,True,False,False
+404391,Kansas,KS,2014,True,False,True,False
+404407,Georgia,GA,2017,True,True,False,False
+404413,Arkansas,AR,2012,True,True,False,False
+404423,Delaware,DE,2017,True,True,False,False
+404430,Iowa,IA,2017,True,False,True,False
+404497,Arizona,AZ,2011,True,True,False,False
+404532,Arizona,AZ,2013,True,False,True,False
+404541,Iowa,IA,2012,True,True,False,False
+404561,Georgia,GA,2012,True,False,True,False
+404604,Idaho,ID,2016,True,False,True,False
+404639,Florida,FL,2013,True,True,False,False
+404648,Hawaii,HI,2018,True,True,False,False
+404691,Delaware,DE,2011,True,True,False,False
+404736,Delaware,DE,2019,True,False,True,False
+404795,Delaware,DE,2015,True,False,True,False
+404858,Alabama,AL,2013,True,False,True,False
+404875,Georgia,GA,2015,True,True,False,False
+404876,Illinois,IL,2011,True,False,True,False
+404922,Idaho,ID,2012,True,True,False,False
+404923,Hawaii,HI,2014,True,False,True,False
+404931,Alabama,AL,2011,True,False,True,False
+404953,Hawaii,HI,2015,True,True,False,False
+404982,Georgia,GA,2012,True,True,False,False
+405002,Colorado,CO,2014,True,False,True,False
+405037,Idaho,ID,2019,True,True,False,False
+405057,Hawaii,HI,2017,True,False,True,False
+405059,District of Columbia,DC,2012,True,True,False,False
+405109,Illinois,IL,2018,True,False,True,False
+405158,Iowa,IA,2014,True,False,True,False
+405193,Indiana,IN,2015,True,True,False,False
+405197,Hawaii,HI,2012,True,False,True,False
+405245,Hawaii,HI,2011,True,False,True,False
+405264,Iowa,IA,2019,True,True,False,False
+405291,Idaho,ID,2018,True,False,True,False
+405292,Iowa,IA,2014,True,True,False,False
+405294,Hawaii,HI,2013,True,False,True,False
+405318,Colorado,CO,2016,True,False,True,False
+405326,Indiana,IN,2011,True,True,False,False
+405390,Georgia,GA,2014,True,True,False,False
+405423,Hawaii,HI,2016,True,True,False,False
+405449,Iowa,IA,2012,True,False,True,False
+405475,Delaware,DE,2019,True,True,False,False
+405482,Indiana,IN,2013,True,True,False,False
+405550,Hawaii,HI,2018,True,False,True,False
+405593,Georgia,GA,2019,True,True,False,False
+405675,Kansas,KS,2015,True,True,False,False
+405681,Hawaii,HI,2014,True,True,False,False
+405712,Kentucky,KY,2014,True,False,True,False
+405725,Iowa,IA,2018,True,False,True,False
+405727,Iowa,IA,2015,True,True,False,False
+405756,Georgia,GA,2016,True,True,False,False
+405764,Kansas,KS,2015,True,False,True,False
+405793,Alabama,AL,2017,True,False,True,False
+405795,Hawaii,HI,2015,True,False,True,False
+405848,Delaware,DE,2013,True,True,False,False
+405869,Alaska,AK,2018,True,True,False,False
+405870,Idaho,ID,2014,True,False,True,False
+405880,Illinois,IL,2017,True,False,True,False
+405892,Alabama,AL,2019,True,False,True,False
+405894,Indiana,IN,2019,True,True,False,False
+405902,Hawaii,HI,2017,True,True,False,False
+405905,District of Columbia,DC,2012,True,False,True,False
+405920,Colorado,CO,2012,True,False,True,False
+405931,Kansas,KS,2018,True,True,False,False
+405937,Idaho,ID,2018,True,True,False,False
+405957,Hawaii,HI,2013,True,True,False,False
+405976,Alaska,AK,2016,True,True,False,False
+405979,Kansas,KS,2012,True,False,True,False
+405990,Idaho,ID,2012,True,False,True,False
+406070,Hawaii,HI,2011,True,True,False,False
+406128,Alabama,AL,2015,True,False,True,False
+406150,Illinois,IL,2013,True,True,False,False
+406176,Illinois,IL,2016,True,True,False,False
+406178,Alaska,AK,2014,True,True,False,False
+406188,Georgia,GA,2014,True,False,True,False
+406226,Florida,FL,2019,True,True,False,False
+406264,Indiana,IN,2011,True,False,True,False
+406280,Indiana,IN,2013,True,False,True,False
+406309,Kansas,KS,2019,True,True,False,False
+406328,Colorado,CO,2016,True,True,False,False
+406367,Connecticut,CT,2015,True,False,True,False
+406380,Georgia,GA,2019,True,False,True,False
+406411,District of Columbia,DC,2015,True,False,True,False
+406413,Connecticut,CT,2018,True,False,True,False
+406419,Iowa,IA,2011,True,False,True,False
+406442,Arizona,AZ,2018,True,False,True,False
+406454,Kansas,KS,2011,True,False,True,False
+406470,Kansas,KS,2017,True,True,False,False
+406502,Arizona,AZ,2017,True,False,True,False
+406511,Iowa,IA,2015,True,False,True,False
+406520,Kansas,KS,2017,True,False,True,False
+406558,Iowa,IA,2018,True,True,False,False
+406572,California,CA,2018,True,False,True,False
+406586,Arizona,AZ,2012,True,True,False,False
+406625,Kansas,KS,2013,True,True,False,False
+406634,Alaska,AK,2018,True,False,True,False
+406637,Kentucky,KY,2014,True,True,False,False
+406663,Delaware,DE,2013,True,False,True,False
+406735,Arizona,AZ,2017,True,True,False,False
+406757,Alaska,AK,2016,True,False,True,False
+406762,Kansas,KS,2018,True,False,True,False
+406768,Georgia,GA,2016,True,False,True,False
+406780,Kansas,KS,2012,True,True,False,False
+406784,Illinois,IL,2013,True,False,True,False
+406795,Kentucky,KY,2018,True,True,False,False
+406819,Georgia,GA,2012,True,True,False,False
+406835,Idaho,ID,2012,True,True,False,False
+406837,Arizona,AZ,2015,True,True,False,False
+406872,Indiana,IN,2017,True,False,True,False
+406884,Kentucky,KY,2011,True,False,True,False
+406899,Illinois,IL,2011,True,False,True,False
+406903,Illinois,IL,2017,True,True,False,False
+406922,Kansas,KS,2011,True,True,False,False
+406938,Kansas,KS,2019,True,False,True,False
+406979,Iowa,IA,2017,True,True,False,False
+406988,Arizona,AZ,2019,True,False,True,False
+406999,Georgia,GA,2017,True,False,True,False
+407003,Alaska,AK,2013,True,False,True,False
+407006,Delaware,DE,2017,True,False,True,False
+407023,Arizona,AZ,2019,True,True,False,False
+407025,Kansas,KS,2016,True,False,True,False
+407059,Illinois,IL,2018,True,True,False,False
+407064,Arkansas,AR,2012,True,False,True,False
+407085,Arizona,AZ,2013,True,True,False,False
+407088,Idaho,ID,2014,True,True,False,False
+407096,Illinois,IL,2015,True,False,True,False
+407127,Arizona,AZ,2011,True,False,True,False
+407173,Delaware,DE,2011,True,False,True,False
+407222,Idaho,ID,2016,True,True,False,False
+407267,Kentucky,KY,2012,True,False,True,False
+407294,Illinois,IL,2015,True,True,False,False
+407301,Arizona,AZ,2016,True,False,True,False
+407309,Connecticut,CT,2018,True,True,False,False
+407378,Arizona,AZ,2014,True,False,True,False
+407380,Florida,FL,2017,True,True,False,False
+407387,Delaware,DE,2015,True,True,False,False
+407397,Indiana,IN,2017,True,True,False,False
+407472,California,CA,2019,True,True,False,False
+407491,Kansas,KS,2013,True,False,True,False
+407518,Illinois,IL,2011,True,True,False,False
+407575,Kentucky,KY,2012,True,True,False,False
+407576,Georgia,GA,2015,True,False,True,False
+407599,Connecticut,CT,2013,True,False,True,False
+407664,Alaska,AK,2013,True,True,False,False
+407681,Arizona,AZ,2015,True,False,True,False
+407709,Florida,FL,2015,True,True,False,False
+407758,California,CA,2019,True,False,True,False
+407764,Iowa,IA,2019,True,False,True,False
+407765,Georgia,GA,2018,True,False,True,False
+407784,Hawaii,HI,2012,True,True,False,False
+407789,Colorado,CO,2014,True,True,False,False
+407814,Indiana,IN,2015,True,False,True,False
+407818,Illinois,IL,2012,True,True,False,False
+407843,Florida,FL,2013,True,True,False,False
+407862,Illinois,IL,2014,True,True,False,False
+407873,Indiana,IN,2014,True,True,False,False
+407884,Hawaii,HI,2017,True,True,False,False
+407900,Florida,FL,2011,True,False,True,False
+407904,Kentucky,KY,2018,True,False,True,False
+407905,Iowa,IA,2011,True,True,False,False
+407913,Iowa,IA,2013,True,False,True,False
+407959,Iowa,IA,2014,True,True,False,False
+407984,California,CA,2017,True,False,True,False
+408103,Iowa,IA,2018,True,False,True,False
+408127,Alabama,AL,2016,True,True,False,False
+408154,Idaho,ID,2017,True,False,True,False
+408222,Idaho,ID,2014,True,False,True,False
+408254,Georgia,GA,2012,True,False,True,False
+408266,Alabama,AL,2017,True,False,True,False
+408323,Alaska,AK,2011,True,True,False,False
+408329,Indiana,IN,2019,True,False,True,False
+408340,Georgia,GA,2016,True,True,False,False
+408355,Alabama,AL,2019,True,False,True,False
+408383,Idaho,ID,2011,True,True,False,False
+408404,Alaska,AK,2012,True,True,False,False
+408411,Alabama,AL,2012,True,False,True,False
+408444,Connecticut,CT,2016,True,True,False,False
+408453,Hawaii,HI,2011,True,False,True,False
+408470,Alabama,AL,2018,True,True,False,False
+408506,California,CA,2015,True,True,False,False
+408520,Arkansas,AR,2014,True,False,True,False
+408536,Alabama,AL,2013,True,False,True,False
+408560,Idaho,ID,2018,True,False,True,False
+408570,Hawaii,HI,2013,True,False,True,False
+408602,Georgia,GA,2013,True,True,False,False
+408612,California,CA,2013,True,True,False,False
+408619,Kansas,KS,2015,True,False,True,False
+408622,Arkansas,AR,2016,True,False,True,False
+408644,Georgia,GA,2014,True,True,False,False
+408665,Hawaii,HI,2015,True,False,True,False
+408673,Indiana,IN,2011,True,True,False,False
+408701,Georgia,GA,2018,True,True,False,False
+408710,Hawaii,HI,2015,True,True,False,False
+408711,Iowa,IA,2012,True,False,True,False
+408740,Indiana,IN,2013,True,True,False,False
+408794,Hawaii,HI,2017,True,False,True,False
+408810,Arkansas,AR,2018,True,False,True,False
+408815,Indiana,IN,2012,True,True,False,False
+408831,California,CA,2017,True,True,False,False
+408839,Iowa,IA,2014,True,False,True,False
+408874,District of Columbia,DC,2015,True,True,False,False
+408883,Iowa,IA,2013,True,True,False,False
+408910,Indiana,IN,2015,True,True,False,False
+408973,Alabama,AL,2016,True,False,True,False
+409005,Alabama,AL,2015,True,True,False,False
+409012,Florida,FL,2013,True,False,True,False
+409065,Idaho,ID,2016,True,False,True,False
+409071,Alabama,AL,2017,True,True,False,False
+409079,Alabama,AL,2011,True,False,True,False
+409138,Kentucky,KY,2016,True,True,False,False
+409142,Colorado,CO,2019,True,False,True,False
+409182,Colorado,CO,2017,True,True,False,False
+409193,District of Columbia,DC,2018,True,False,True,False
+409203,Idaho,ID,2019,True,True,False,False
+409230,Alabama,AL,2019,True,True,False,False
+409235,Idaho,ID,2013,True,False,True,False
+409250,Illinois,IL,2018,True,False,True,False
+409260,Kansas,KS,2013,True,False,True,False
+409289,Indiana,IN,2019,True,True,False,False
+409295,Idaho,ID,2012,True,False,True,False
+409303,Hawaii,HI,2013,True,True,False,False
+409342,Alabama,AL,2018,True,False,True,False
+409364,Alaska,AK,2012,True,False,True,False
+409389,Connecticut,CT,2016,True,False,True,False
+409457,Kentucky,KY,2017,True,False,True,False
+409469,Florida,FL,2014,True,True,False,False
+409500,California,CA,2015,True,False,True,False
+409546,Georgia,GA,2013,True,False,True,False
+409559,District of Columbia,DC,2016,True,False,True,False
+409562,Idaho,ID,2019,True,False,True,False
+409564,Indiana,IN,2018,True,True,False,False
+409621,Arizona,AZ,2013,True,False,True,False
+409623,California,CA,2013,True,False,True,False
+409648,Idaho,ID,2015,True,False,True,False
+409652,Iowa,IA,2012,True,True,False,False
+409682,Alaska,AK,2013,True,True,False,False
+409685,Arkansas,AR,2018,True,True,False,False
+409688,Indiana,IN,2012,True,False,True,False
+409710,Georgia,GA,2018,True,False,True,False
+409718,California,CA,2011,True,False,True,False
+409735,Indiana,IN,2015,True,False,True,False
+409739,Florida,FL,2015,True,True,False,False
+409777,Arizona,AZ,2019,True,False,True,False
+409788,Illinois,IL,2012,True,True,False,False
+409807,District of Columbia,DC,2015,True,False,True,False
+409825,Hawaii,HI,2011,True,True,False,False
+409841,Illinois,IL,2014,True,True,False,False
+409844,Kentucky,KY,2018,True,False,True,False
+409906,District of Columbia,DC,2014,True,False,True,False
+409932,Alabama,AL,2015,True,False,True,False
+409948,Georgia,GA,2011,True,True,False,False
+409949,Colorado,CO,2019,True,True,False,False
+410000,Alabama,AL,2014,True,False,True,False
+410003,Kentucky,KY,2016,True,False,True,False
+410039,Illinois,IL,2015,True,False,True,False
+410106,Colorado,CO,2017,True,False,True,False
+410121,Idaho,ID,2016,True,True,False,False
+410131,Alabama,AL,2011,True,True,False,False
+410159,Florida,FL,2017,True,False,True,False
+410172,Idaho,ID,2013,True,True,False,False
+410211,Kentucky,KY,2012,True,False,True,False
+410221,Illinois,IL,2019,True,True,False,False
+410234,Connecticut,CT,2014,True,True,False,False
+410251,District of Columbia,DC,2018,True,True,False,False
+410323,Indiana,IN,2017,True,True,False,False
+410348,Kansas,KS,2011,True,True,False,False
+410359,District of Columbia,DC,2016,True,True,False,False
+410372,Florida,FL,2017,True,True,False,False
+410386,Florida,FL,2014,True,False,True,False
+410398,Kansas,KS,2013,True,True,False,False
+410421,California,CA,2019,True,True,False,False
+410424,Indiana,IN,2018,True,False,True,False
+410446,Illinois,IL,2018,True,True,False,False
+410479,Illinois,IL,2012,True,False,True,False
+410481,Arizona,AZ,2013,True,True,False,False
+410505,Indiana,IN,2016,True,False,True,False
+410522,Florida,FL,2015,True,False,True,False
+410536,Florida,FL,2011,True,True,False,False
+410550,Illinois,IL,2014,True,False,True,False
+410557,Florida,FL,2013,True,False,True,False
+410559,Idaho,ID,2015,True,True,False,False
+410582,California,CA,2011,True,True,False,False
+410594,Illinois,IL,2013,True,False,True,False
+410600,Idaho,ID,2017,True,True,False,False
+410628,Florida,FL,2018,True,True,False,False
+410638,Illinois,IL,2016,True,False,True,False
+410687,Indiana,IN,2017,True,False,True,False
+410721,Florida,FL,2019,True,False,True,False
+410741,Arizona,AZ,2017,True,False,True,False
+410759,Kansas,KS,2019,True,False,True,False
+410790,Connecticut,CT,2012,True,True,False,False
+410852,Iowa,IA,2018,True,True,False,False
+410870,Alabama,AL,2014,True,True,False,False
+410883,District of Columbia,DC,2015,True,True,False,False
+410892,Indiana,IN,2014,True,False,True,False
+410917,Kansas,KS,2017,True,False,True,False
+410966,Idaho,ID,2014,True,True,False,False
+411000,Georgia,GA,2016,True,False,True,False
+411023,California,CA,2018,True,True,False,False
+411055,Alaska,AK,2011,True,False,True,False
+411064,Arizona,AZ,2015,True,False,True,False
+411069,Illinois,IL,2019,True,False,True,False
+411089,Idaho,ID,2011,True,False,True,False
+411099,Alabama,AL,2013,True,True,False,False
+411127,Florida,FL,2016,True,True,False,False
+411183,Kansas,KS,2011,True,False,True,False
+411202,Arkansas,AR,2016,True,True,False,False
+411239,California,CA,2018,True,False,True,False
+411319,Arkansas,AR,2014,True,True,False,False
+411337,Georgia,GA,2014,True,False,True,False
+411341,Indiana,IN,2011,True,False,True,False
+411354,Florida,FL,2019,True,True,False,False
+411376,Illinois,IL,2016,True,True,False,False
+411381,Indiana,IN,2016,True,True,False,False
+411426,Alabama,AL,2016,True,False,True,False
+411453,Connecticut,CT,2012,True,False,True,False
+411459,Kentucky,KY,2017,True,False,True,False
+411460,Florida,FL,2014,True,True,False,False
+411510,Florida,FL,2012,True,False,True,False
+411522,Georgia,GA,2013,True,False,True,False
+411524,District of Columbia,DC,2016,True,False,True,False
+411562,Alabama,AL,2017,True,True,False,False
+411563,Arkansas,AR,2011,True,True,False,False
+411573,California,CA,2014,True,True,False,False
+411598,California,CA,2013,True,False,True,False
+411603,Idaho,ID,2015,True,False,True,False
+411673,Iowa,IA,2013,True,True,False,False
+411675,Colorado,CO,2015,True,False,True,False
+411695,California,CA,2016,True,False,True,False
+411696,Idaho,ID,2013,True,False,True,False
+411746,Iowa,IA,2016,True,True,False,False
+411759,District of Columbia,DC,2013,True,False,True,False
+411760,Colorado,CO,2011,True,False,True,False
+411769,Delaware,DE,2014,True,True,False,False
+411778,Alabama,AL,2018,True,False,True,False
+411827,California,CA,2015,True,False,True,False
+411832,California,CA,2012,True,True,False,False
+411854,Hawaii,HI,2019,True,True,False,False
+411856,Alabama,AL,2015,True,True,False,False
+411902,Alaska,AK,2017,True,True,False,False
+411919,Indiana,IN,2018,True,False,True,False
+411922,Arkansas,AR,2013,True,False,True,False
+411955,Idaho,ID,2019,True,False,True,False
+411957,Connecticut,CT,2017,True,True,False,False
+412021,Kentucky,KY,2016,True,True,False,False
+412023,Arkansas,AR,2015,True,False,True,False
+412026,Colorado,CO,2019,True,False,True,False
+412059,District of Columbia,DC,2011,True,True,False,False
+412066,Colorado,CO,2017,True,True,False,False
+412081,Kentucky,KY,2013,True,False,True,False
+412102,Colorado,CO,2011,True,True,False,False
+412116,Arkansas,AR,2018,True,False,True,False
+412120,Indiana,IN,2012,True,True,False,False
+412121,Kansas,KS,2014,True,True,False,False
+412125,Alaska,AK,2011,True,True,False,False
+412143,Kentucky,KY,2017,True,True,False,False
+412151,Arkansas,AR,2019,True,True,False,False
+412156,Alabama,AL,2012,True,False,True,False
+412173,California,CA,2017,True,True,False,False
+412180,Florida,FL,2016,True,False,True,False
+412182,Illinois,IL,2019,True,True,False,False
+412218,District of Columbia,DC,2018,True,False,True,False
+412227,Iowa,IA,2011,True,False,True,False
+412240,Connecticut,CT,2016,True,False,True,False
+412277,Kentucky,KY,2018,True,True,False,False
+412301,Arkansas,AR,2014,True,False,True,False
+412307,District of Columbia,DC,2014,True,True,False,False
+412330,Alabama,AL,2016,True,True,False,False
+412393,Georgia,GA,2013,True,True,False,False
+412408,Arkansas,AR,2017,True,False,True,False
+412409,California,CA,2013,True,True,False,False
+412419,California,CA,2014,True,False,True,False
+412430,Kentucky,KY,2015,True,True,False,False
+412463,Arkansas,AR,2011,True,False,True,False
+412475,Alaska,AK,2019,True,True,False,False
+412512,Indiana,IN,2014,True,True,False,False
+412520,Alabama,AL,2019,True,True,False,False
+412537,Colorado,CO,2013,True,False,True,False
+412553,California,CA,2011,True,True,False,False
+412557,Iowa,IA,2013,True,False,True,False
+412574,California,CA,2016,True,True,False,False
+412610,Idaho,ID,2011,True,True,False,False
+412628,District of Columbia,DC,2013,True,True,False,False
+412687,Alabama,AL,2018,True,True,False,False
+412735,District of Columbia,DC,2019,True,False,True,False
+412744,California,CA,2015,True,True,False,False
+412751,California,CA,2012,True,False,True,False
+412822,Idaho,ID,2017,True,False,True,False
+412834,District of Columbia,DC,2017,True,False,True,False
+412838,Alabama,AL,2012,True,True,False,False
+412852,Arkansas,AR,2016,True,False,True,False
+412890,Indiana,IN,2018,True,True,False,False
+412969,District of Columbia,DC,2011,True,False,True,False
+412980,Alaska,AK,2011,True,False,True,False
+412983,Iowa,IA,2011,True,True,False,False
+413007,Colorado,CO,2018,True,True,False,False
+413038,Florida,FL,2011,True,False,True,False
+413043,Delaware,DE,2012,True,True,False,False
+413052,Connecticut,CT,2017,True,False,True,False
+413067,Delaware,DE,2018,True,True,False,False
+413097,Alaska,AK,2015,True,True,False,False
+413107,Alaska,AK,2012,True,True,False,False
+413118,Connecticut,CT,2014,True,True,False,False
+413167,Connecticut,CT,2016,True,True,False,False
+413170,California,CA,2017,True,False,True,False
+413179,Delaware,DE,2016,True,False,True,False
+413250,Florida,FL,2018,True,False,True,False
+413274,District of Columbia,DC,2014,True,False,True,False
+413280,Arizona,AZ,2018,True,True,False,False
+413319,Connecticut,CT,2015,True,True,False,False
+413343,Arkansas,AR,2017,True,True,False,False
+413355,Arkansas,AR,2014,True,True,False,False
+413363,Kentucky,KY,2015,True,False,True,False
+413380,Colorado,CO,2013,True,True,False,False
+413385,Indiana,IN,2014,True,False,True,False
+413404,Alaska,AK,2019,True,False,True,False
+413421,Indiana,IN,2016,True,True,False,False
+413457,Alabama,AL,2011,True,True,False,False
+413523,Connecticut,CT,2012,True,False,True,False
+413524,California,CA,2011,True,False,True,False
+413551,Idaho,ID,2011,True,False,True,False
+413664,District of Columbia,DC,2019,True,True,False,False
+413724,Iowa,IA,2016,True,False,True,False
+413726,Colorado,CO,2011,True,True,False,False
+413769,Alabama,AL,2014,True,True,False,False
+413818,Florida,FL,2016,True,False,True,False
+413819,Delaware,DE,2018,True,False,True,False
+413831,Arkansas,AR,2016,True,True,False,False
+413871,Connecticut,CT,2019,True,True,False,False
+413887,Delaware,DE,2012,True,False,True,False
+413911,Florida,FL,2018,True,True,False,False
+413912,Florida,FL,2011,True,True,False,False
+413967,Colorado,CO,2018,True,False,True,False
+413969,California,CA,2018,True,True,False,False
+413973,Idaho,ID,2017,True,True,False,False
+414005,District of Columbia,DC,2017,True,True,False,False
+414036,Illinois,IL,2016,True,False,True,False
+414046,Alaska,AK,2014,True,False,True,False
+414064,Florida,FL,2019,True,False,True,False
+414075,Delaware,DE,2016,True,True,False,False
+414163,Florida,FL,2012,True,True,False,False
+414181,Connecticut,CT,2012,True,True,False,False
+414182,District of Columbia,DC,2016,True,True,False,False
+414196,Florida,FL,2014,True,False,True,False
+414198,Connecticut,CT,2013,True,True,False,False
+414260,Illinois,IL,2012,True,False,True,False
+414300,Indiana,IN,2016,True,False,True,False
+414304,Arkansas,AR,2015,True,True,False,False
+414305,Georgia,GA,2011,True,True,False,False
+414310,Florida,FL,2015,True,False,True,False
+414327,Illinois,IL,2014,True,False,True,False
+414329,Colorado,CO,2015,True,True,False,False
+414360,Idaho,ID,2015,True,True,False,False
+414391,District of Columbia,DC,2014,True,True,False,False
+414420,Idaho,ID,2013,True,True,False,False
+414444,Georgia,GA,2011,True,False,True,False
+414450,Kansas,KS,2016,True,True,False,False
+414511,Delaware,DE,2014,True,False,True,False
+414579,Hawaii,HI,2019,True,False,True,False
+414591,Arkansas,AR,2013,True,True,False,False
+414603,Alaska,AK,2017,True,False,True,False
+414625,Arizona,AZ,2016,True,True,False,False
+414632,Colorado,CO,2019,True,True,False,False
+414671,Alabama,AL,2014,True,False,True,False
+414684,Kentucky,KY,2016,True,False,True,False
+414699,Connecticut,CT,2014,True,False,True,False
+414705,Kentucky,KY,2013,True,True,False,False
+414722,Connecticut,CT,2019,True,False,True,False
+414763,Colorado,CO,2017,True,False,True,False
+414764,Indiana,IN,2012,True,False,True,False
+414803,Florida,FL,2017,True,False,True,False
+414813,Alabama,AL,2012,True,True,False,False
+414852,Illinois,IL,2019,True,False,True,False
+414891,Arkansas,AR,2018,True,True,False,False
+414900,Arkansas,AR,2019,True,False,True,False
+414911,Florida,FL,2016,True,True,False,False
+414921,Connecticut,CT,2011,True,True,False,False
+414938,District of Columbia,DC,2018,True,True,False,False
+414987,Delaware,DE,2013,True,True,False,False
+415003,Illinois,IL,2017,True,False,True,False
+415008,District of Columbia,DC,2011,True,False,True,False
+415017,Delaware,DE,2018,True,True,False,False
+415037,Colorado,CO,2018,True,True,False,False
+415048,Kansas,KS,2018,True,True,False,False
+415052,Delaware,DE,2012,True,True,False,False
+415060,California,CA,2016,True,True,False,False
+415062,District of Columbia,DC,2012,True,False,True,False
+415075,Idaho,ID,2018,True,True,False,False
+415078,District of Columbia,DC,2013,True,True,False,False
+415109,Alaska,AK,2016,True,True,False,False
+415121,Hawaii,HI,2018,True,False,True,False
+415168,Georgia,GA,2019,True,True,False,False
+415301,Iowa,IA,2015,True,True,False,False
+415308,Arkansas,AR,2012,True,True,False,False
+415317,Colorado,CO,2016,True,False,True,False
+415328,Alaska,AK,2019,True,True,False,False
+415342,Kentucky,KY,2015,True,True,False,False
+415343,Arizona,AZ,2012,True,False,True,False
+415369,Arkansas,AR,2011,True,True,False,False
+415487,Alaska,AK,2018,True,True,False,False
+415519,Colorado,CO,2012,True,True,False,False
+415587,Connecticut,CT,2011,True,False,True,False
+415609,Delaware,DE,2016,True,False,True,False
+415652,District of Columbia,DC,2019,True,False,True,False
+415663,Hawaii,HI,2016,True,True,False,False
+415697,Kansas,KS,2015,True,True,False,False
+415718,Arkansas,AR,2017,True,False,True,False
+415724,Kentucky,KY,2014,True,False,True,False
+415736,Connecticut,CT,2019,True,True,False,False
+415776,Connecticut,CT,2017,True,False,True,False
+415784,California,CA,2014,True,False,True,False
+415795,Delaware,DE,2018,True,False,True,False
+415820,Colorado,CO,2013,True,False,True,False
+415830,Arizona,AZ,2014,True,True,False,False
+415846,Alaska,AK,2015,True,False,True,False
+415890,California,CA,2016,True,False,True,False
+415895,Kentucky,KY,2013,True,False,True,False
+415936,Alabama,AL,2013,True,True,False,False
+415941,Arkansas,AR,2013,True,False,True,False
+415943,Kentucky,KY,2017,True,True,False,False
+415950,Hawaii,HI,2018,True,True,False,False
+415958,Florida,FL,2012,True,False,True,False
+415967,Kansas,KS,2014,True,True,False,False
+415980,District of Columbia,DC,2013,True,False,True,False
+415992,Arkansas,AR,2019,True,True,False,False
+415998,District of Columbia,DC,2012,True,True,False,False
+416026,Delaware,DE,2014,True,True,False,False
+416045,Delaware,DE,2019,True,True,False,False
+416058,Hawaii,HI,2012,True,False,True,False
+416069,Colorado,CO,2014,True,False,True,False
+416137,Alaska,AK,2017,True,True,False,False
+416153,Hawaii,HI,2019,True,True,False,False
+416209,Colorado,CO,2015,True,False,True,False
+416214,Arkansas,AR,2012,True,False,True,False
+416218,Iowa,IA,2017,True,False,True,False
+416249,District of Columbia,DC,2011,True,True,False,False
+416361,Colorado,CO,2012,True,False,True,False
+416417,Iowa,IA,2016,True,True,False,False
+416420,Colorado,CO,2011,True,False,True,False
+416458,Alaska,AK,2015,True,True,False,False
+416471,Kentucky,KY,2011,True,True,False,False
+416492,Hawaii,HI,2016,True,False,True,False
+416510,California,CA,2012,True,False,True,False
+416515,Delaware,DE,2015,True,False,True,False
+416538,Hawaii,HI,2014,True,True,False,False
+416562,Georgia,GA,2017,True,True,False,False
+416574,District of Columbia,DC,2017,True,False,True,False
+416578,Kansas,KS,2014,True,False,True,False
+416588,Delaware,DE,2017,True,True,False,False
+416600,Connecticut,CT,2017,True,True,False,False
+416626,Arizona,AZ,2011,True,True,False,False
+416678,Arkansas,AR,2015,True,False,True,False
+416695,California,CA,2014,True,True,False,False
+416724,Colorado,CO,2015,True,True,False,False
+416742,Connecticut,CT,2013,True,False,True,False
+416798,Kansas,KS,2016,True,True,False,False
+416806,Delaware,DE,2014,True,False,True,False
+416817,Delaware,DE,2011,True,True,False,False
+416828,Arkansas,AR,2019,True,False,True,False
+416838,Georgia,GA,2011,True,False,True,False
+416865,Delaware,DE,2019,True,False,True,False
+416875,Iowa,IA,2019,True,False,True,False
+416880,Illinois,IL,2015,True,True,False,False
+416886,Hawaii,HI,2012,True,True,False,False
+416899,Colorado,CO,2014,True,True,False,False
+416951,Hawaii,HI,2019,True,False,True,False
+416988,Arizona,AZ,2016,True,True,False,False
+416996,Alaska,AK,2017,True,False,True,False
+417027,Kentucky,KY,2012,True,True,False,False
+417059,Iowa,IA,2017,True,True,False,False
+417113,Connecticut,CT,2014,True,False,True,False
+417125,Kansas,KS,2016,True,False,True,False
+417148,Arizona,AZ,2014,True,True,False,False
+417157,Missouri,MO,2011,True,False,True,False
+417201,Kansas,KS,2012,True,True,False,False
+417217,Colorado,CO,2012,True,True,False,False
+417230,Alaska,AK,2015,True,False,True,False
+417260,Arizona,AZ,2016,True,False,True,False
+417270,California,CA,2019,True,False,True,False
+417279,Connecticut,CT,2018,True,True,False,False
+417298,Kentucky,KY,2011,True,False,True,False
+417333,Iowa,IA,2016,True,False,True,False
+417353,Georgia,GA,2017,True,False,True,False
+417357,Connecticut,CT,2013,True,True,False,False
+417363,Delaware,DE,2015,True,True,False,False
+417406,California,CA,2012,True,True,False,False
+417419,Florida,FL,2012,True,True,False,False
+417433,Delaware,DE,2017,True,False,True,False
+417435,Alaska,AK,2013,True,False,True,False
+417458,Georgia,GA,2015,True,True,False,False
+417464,West Virginia,WV,2014,True,False,True,False
+417487,Arizona,AZ,2019,True,True,False,False
+417492,Connecticut,CT,2011,True,False,True,False
+417496,Hawaii,HI,2014,True,False,True,False
+417529,Arizona,AZ,2011,True,False,True,False
+417551,Arkansas,AR,2015,True,True,False,False
+417555,Kentucky,KY,2013,True,True,False,False
+417595,Arizona,AZ,2018,True,False,True,False
+417616,Alaska,AK,2016,True,False,True,False
+417618,Colorado,CO,2016,True,True,False,False
+417625,Delaware,DE,2011,True,False,True,False
+417637,Kansas,KS,2018,True,False,True,False
+417648,Colorado,CO,2018,True,False,True,False
+417663,Arkansas,AR,2017,True,True,False,False
+417669,Delaware,DE,2012,True,False,True,False
+417680,District of Columbia,DC,2017,True,True,False,False
+417698,Connecticut,CT,2015,True,False,True,False
+417713,Alaska,AK,2014,True,False,True,False
+417723,Arizona,AZ,2015,True,True,False,False
+417769,Iowa,IA,2019,True,True,False,False
+417785,Georgia,GA,2019,True,False,True,False
+417790,Illinois,IL,2017,True,True,False,False
+417838,Iowa,IA,2015,True,False,True,False
+417924,Connecticut,CT,2015,True,True,False,False
+417939,Arizona,AZ,2012,True,True,False,False
+417963,Alaska,AK,2019,True,False,True,False
+417967,Delaware,DE,2013,True,False,True,False
+417975,Kentucky,KY,2015,True,False,True,False
+417997,Arizona,AZ,2018,True,True,False,False
+418007,United States,US,2014,True,True,False,False
+418021,Arkansas,AR,2011,True,False,True,False
+418034,Arizona,AZ,2017,True,True,False,False
+418102,Kansas,KS,2012,True,False,True,False
+418178,Connecticut,CT,2018,True,False,True,False
+418215,District of Columbia,DC,2019,True,True,False,False
+418231,Connecticut,CT,2011,True,True,False,False
+418241,Kansas,KS,2017,True,True,False,False
+418255,Florida,FL,2018,True,False,True,False
+418273,Illinois,IL,2013,True,True,False,False
+418282,Arizona,AZ,2014,True,False,True,False
+418287,Delaware,DE,2016,True,True,False,False
+418338,Wisconsin,WI,2012,True,True,False,False
+418378,Alaska,AK,2014,True,True,False,False
+418380,Arkansas,AR,2013,True,True,False,False
+418384,Alaska,AK,2018,True,False,True,False
+418387,Colorado,CO,2013,True,True,False,False
+418400,Kentucky,KY,2011,True,True,False,False
+418410,Illinois,IL,2011,True,True,False,False
+418415,Kentucky,KY,2014,True,True,False,False
+418469,Connecticut,CT,2019,True,False,True,False
+418476,Georgia,GA,2015,True,False,True,False
+418497,North Carolina,NC,2012,True,False,True,False
+418503,Nebraska,NE,2011,True,True,False,False
+418509,Oregon,OR,2015,True,False,True,False
+418513,Oklahoma,OK,2012,True,False,True,False
+418525,Puerto Rico,PR,2019,True,False,True,False
+418535,Vermont,VT,2014,True,True,False,False
+418536,New Jersey,NJ,2019,True,False,True,False
+418542,New Hampshire,NH,2018,True,False,True,False
+418558,Utah,UT,2018,True,True,False,False
+418559,Virgin Islands,VI,2011,True,False,True,False
+418579,Puerto Rico,PR,2018,True,True,False,False
+418586,Louisiana,LA,2018,True,True,False,False
+418596,Montana,MT,2012,True,False,True,False
+418601,North Carolina,NC,2018,True,False,True,False
+418604,Wisconsin,WI,2016,True,True,False,False
+418632,Guam,GU,2016,True,False,True,False
+418634,Virgin Islands,VI,2012,True,True,False,False
+418645,Oregon,OR,2012,True,True,False,False
+418653,Washington,WA,2015,True,False,True,False
+418665,New Jersey,NJ,2012,True,False,True,False
+418666,South Dakota,SD,2015,True,False,True,False
+418667,New Mexico,NM,2017,True,True,False,False
+418669,North Carolina,NC,2016,True,False,True,False
+418673,Vermont,VT,2012,True,True,False,False
+418677,Utah,UT,2013,True,False,True,False
+418679,Nevada,NV,2017,True,False,True,False
+418686,Maryland,MD,2013,True,True,False,False
+418689,Vermont,VT,2018,True,False,True,False
+418702,South Dakota,SD,2017,True,True,False,False
+418721,Virginia,VA,2019,True,False,True,False
+418734,Vermont,VT,2015,True,True,False,False
+418750,New Mexico,NM,2011,True,True,False,False
+418756,New Jersey,NJ,2017,True,True,False,False
+418762,Utah,UT,2017,True,False,True,False
+418770,Utah,UT,2015,True,False,True,False
+418778,Massachusetts,MA,2015,True,False,True,False
+418782,North Dakota,ND,2017,True,True,False,False
+418791,Missouri,MO,2014,True,True,False,False
+418810,Maine,ME,2015,True,True,False,False
+418824,Vermont,VT,2012,True,False,True,False
+418833,Montana,MT,2011,True,True,False,False
+418839,North Dakota,ND,2011,True,True,False,False
+418841,Wyoming,WY,2014,True,True,False,False
+418852,Massachusetts,MA,2017,True,True,False,False
+418862,Michigan,MI,2015,True,True,False,False
+418863,Guam,GU,2014,True,False,True,False
+418865,New Jersey,NJ,2015,True,True,False,False
+418872,Virgin Islands,VI,2014,True,True,False,False
+418884,Puerto Rico,PR,2012,True,True,False,False
+418904,Missouri,MO,2016,True,False,True,False
+418909,New Hampshire,NH,2016,True,False,True,False
+418911,Virginia,VA,2018,True,False,True,False
+418915,North Carolina,NC,2015,True,True,False,False
+418916,North Dakota,ND,2013,True,True,False,False
+418927,Vermont,VT,2019,True,True,False,False
+418938,New Jersey,NJ,2011,True,False,True,False
+418946,Maine,ME,2011,True,True,False,False
+418957,Montana,MT,2013,True,True,False,False
+418959,Vermont,VT,2016,True,False,True,False
+418964,Wyoming,WY,2016,True,True,False,False
+418965,Massachusetts,MA,2015,True,True,False,False
+418971,Missouri,MO,2019,True,False,True,False
+418974,Massachusetts,MA,2019,True,False,True,False
+418977,Minnesota,MN,2012,True,True,False,False
+419021,Virgin Islands,VI,2014,True,True,False,False
+419039,Michigan,MI,2016,True,True,False,False
+419043,Michigan,MI,2019,True,True,False,False
+419044,Virginia,VA,2012,True,True,False,False
+419045,Montana,MT,2018,True,True,False,False
+419046,New Jersey,NJ,2019,True,True,False,False
+419052,North Carolina,NC,2014,True,False,True,False
+419067,Washington,WA,2018,True,False,True,False
+419099,Puerto Rico,PR,2017,True,False,True,False
+419103,North Dakota,ND,2015,True,True,False,False
+419181,Vermont,VT,2014,True,False,True,False
+419195,Rhode Island,RI,2014,True,True,False,False
+419214,Vermont,VT,2011,True,False,True,False
+419219,Guam,GU,2019,True,True,False,False
+419241,Wyoming,WY,2016,True,False,True,False
+419244,Wisconsin,WI,2018,True,True,False,False
+419256,North Carolina,NC,2017,True,True,False,False
+419257,Maine,ME,2016,True,False,True,False
+419258,Nevada,NV,2019,True,False,True,False
+419270,Missouri,MO,2018,True,False,True,False
+419271,Maryland,MD,2015,True,True,False,False
+419278,Washington,WA,2019,True,False,True,False
+419285,Tennessee,TN,2012,True,True,False,False
+419287,Washington,WA,2012,True,False,True,False
+419301,Wisconsin,WI,2019,True,False,True,False
+419302,South Dakota,SD,2015,True,True,False,False
+419303,Oregon,OR,2017,True,False,True,False
+419308,Michigan,MI,2012,True,False,True,False
+419318,Puerto Rico,PR,2011,True,False,True,False
+419338,Maine,ME,2013,True,True,False,False
+419349,Wyoming,WY,2018,True,True,False,False
+419353,Wisconsin,WI,2011,True,False,True,False
+419366,South Dakota,SD,2014,True,False,True,False
+419385,Kentucky,KY,2019,True,True,False,False
+419395,Missouri,MO,2014,True,False,True,False
+419397,Virgin Islands,VI,2011,True,True,False,False
+419401,Tennessee,TN,2014,True,True,False,False
+419407,Washington,WA,2013,True,True,False,False
+419409,Utah,UT,2019,True,False,True,False
+419411,New Hampshire,NH,2015,True,False,True,False
+419415,Puerto Rico,PR,2015,True,False,True,False
+419433,Virginia,VA,2013,True,True,False,False
+419436,New Hampshire,NH,2014,True,False,True,False
+419506,Wyoming,WY,2012,True,False,True,False
+419509,South Dakota,SD,2013,True,False,True,False
+419515,Vermont,VT,2013,True,False,True,False
+419519,Vermont,VT,2017,True,True,False,False
+419520,Massachusetts,MA,2017,True,False,True,False
+419537,Pennsylvania,PA,2012,True,False,True,False
+419542,Vermont,VT,2018,True,True,False,False
+419545,New Hampshire,NH,2019,True,False,True,False
+419560,New Jersey,NJ,2018,True,True,False,False
+419566,Rhode Island,RI,2019,True,False,True,False
+419579,South Dakota,SD,2018,True,False,True,False
+419586,Michigan,MI,2018,True,True,False,False
+419594,South Dakota,SD,2011,True,True,False,False
+419601,Montana,MT,2017,True,True,False,False
+419618,Utah,UT,2019,True,True,False,False
+419631,Washington,WA,2016,True,False,True,False
+419658,Wyoming,WY,2012,True,True,False,False
+419669,Michigan,MI,2017,True,True,False,False
+419670,Virginia,VA,2011,True,True,False,False
+419683,North Dakota,ND,2019,True,True,False,False
+419689,South Dakota,SD,2016,True,False,True,False
+419697,Washington,WA,2017,True,False,True,False
+419698,Minnesota,MN,2011,True,True,False,False
+419705,Washington,WA,2014,True,False,True,False
+419706,Puerto Rico,PR,2013,True,False,True,False
+419707,Tennessee,TN,2016,True,True,False,False
+419734,Missouri,MO,2013,True,False,True,False
+419754,New York,NY,2011,True,True,False,False
+419759,Massachusetts,MA,2016,True,True,False,False
+419763,Nebraska,NE,2013,True,True,False,False
+419779,Montana,MT,2014,True,False,True,False
+419787,Wyoming,WY,2019,True,True,False,False
+419808,Guam,GU,2018,True,False,True,False
+419813,South Dakota,SD,2013,True,True,False,False
+419820,Missouri,MO,2015,True,False,True,False
+419824,South Dakota,SD,2011,True,False,True,False
+419827,Utah,UT,2019,True,False,True,False
+419845,United States,US,2014,True,True,False,False
+419847,New Jersey,NJ,2016,True,True,False,False
+419858,West Virginia,WV,2011,True,False,True,False
+419864,South Dakota,SD,2012,True,False,True,False
+419892,Utah,UT,2011,True,False,True,False
+419896,Vermont,VT,2016,True,True,False,False
+419897,New Mexico,NM,2012,True,True,False,False
+419898,Ohio,OH,2012,True,True,False,False
+419899,Montana,MT,2015,True,True,False,False
+419907,Missouri,MO,2017,True,False,True,False
+419911,Oregon,OR,2011,True,True,False,False
+419912,Vermont,VT,2011,True,True,False,False
+419917,New Jersey,NJ,2013,True,False,True,False
+419925,Louisiana,LA,2012,True,True,False,False
+419957,Washington,WA,2015,True,True,False,False
+419986,Wyoming,WY,2014,True,False,True,False
+419990,Wisconsin,WI,2019,True,True,False,False
+419995,Missouri,MO,2012,True,False,True,False
+420014,New Mexico,NM,2018,True,True,False,False
+420019,Vermont,VT,2013,True,True,False,False
+420023,United States,US,2016,True,False,True,False
+420034,Puerto Rico,PR,2016,True,True,False,False
+420044,Oregon,OR,2019,True,False,True,False
+420056,Nebraska,NE,2015,True,True,False,False
+420058,South Dakota,SD,2019,True,True,False,False
+420060,Washington,WA,2011,True,False,True,False
+420068,Utah,UT,2019,True,True,False,False
+420095,Nebraska,NE,2014,True,False,True,False
+420132,New Jersey,NJ,2014,True,True,False,False
+420136,Utah,UT,2018,True,False,True,False
+420154,New Hampshire,NH,2017,True,False,True,False
+420169,New Hampshire,NH,2012,True,False,True,False
+420171,Nevada,NV,2012,True,True,False,False
+420177,Montana,MT,2016,True,False,True,False
+420181,United States,US,2011,True,True,False,False
+420189,Puerto Rico,PR,2014,True,True,False,False
+420202,Michigan,MI,2014,True,True,False,False
+420239,Wisconsin,WI,2014,True,True,False,False
+420251,West Virginia,WV,2017,True,False,True,False
+420253,Montana,MT,2018,True,False,True,False
+420274,Ohio,OH,2019,True,True,False,False
+420282,South Carolina,SC,2011,True,True,False,False
+420292,Massachusetts,MA,2018,True,True,False,False
+420294,Wyoming,WY,2018,True,False,True,False
+420303,Guam,GU,2015,True,True,False,False
+420307,Nebraska,NE,2018,True,False,True,False
+420321,West Virginia,WV,2016,True,False,True,False
+420323,New York,NY,2011,True,False,True,False
+420324,South Carolina,SC,2016,True,True,False,False
+420340,Oklahoma,OK,2016,True,True,False,False
+420343,Rhode Island,RI,2016,True,True,False,False
+420344,Guam,GU,2019,True,False,True,False
+420357,Virginia,VA,2012,True,False,True,False
+420362,Oklahoma,OK,2014,True,True,False,False
+420368,Virginia,VA,2017,True,False,True,False
+420382,Rhode Island,RI,2011,True,False,True,False
+420410,Tennessee,TN,2012,True,False,True,False
+420421,Tennessee,TN,2017,True,False,True,False
+420471,Massachusetts,MA,2019,True,True,False,False
+420472,Nebraska,NE,2011,True,True,False,False
+420480,Michigan,MI,2012,True,True,False,False
+420481,Minnesota,MN,2017,True,False,True,False
+420482,Nevada,NV,2014,True,False,True,False
+420496,United States,US,2012,True,False,True,False
+420511,Oklahoma,OK,2015,True,True,False,False
+420525,Tennessee,TN,2015,True,False,True,False
+420559,Vermont,VT,2018,True,False,True,False
+420571,Mississippi,MS,2014,True,False,True,False
+420573,Montana,MT,2012,True,False,True,False
+420603,Utah,UT,2013,True,True,False,False
+420614,Nevada,NV,2011,True,False,True,False
+420633,Ohio,OH,2017,True,True,False,False
+420676,Mississippi,MS,2012,True,False,True,False
+420687,Rhode Island,RI,2014,True,True,False,False
+420697,Virginia,VA,2015,True,False,True,False
+420706,South Dakota,SD,2019,True,False,True,False
+420741,Texas,TX,2012,True,False,True,False
+420746,Nevada,NV,2014,True,True,False,False
+420762,Missouri,MO,2018,True,True,False,False
+420769,West Virginia,WV,2012,True,False,True,False
+420779,Nebraska,NE,2011,True,False,True,False
+420788,Minnesota,MN,2019,True,False,True,False
+420820,Nevada,NV,2012,True,False,True,False
+420838,Guam,GU,2017,True,True,False,False
+420856,Nebraska,NE,2016,True,False,True,False
+420872,Missouri,MO,2016,True,True,False,False
+420876,Oklahoma,OK,2012,True,True,False,False
+420877,Puerto Rico,PR,2016,True,False,True,False
+420892,Wisconsin,WI,2015,True,False,True,False
+420896,New Mexico,NM,2013,True,True,False,False
+420907,Texas,TX,2018,True,False,True,False
+420914,Pennsylvania,PA,2018,True,False,True,False
+420918,Oklahoma,OK,2018,True,True,False,False
+420941,Utah,UT,2015,True,True,False,False
+420960,New Jersey,NJ,2015,True,False,True,False
+420962,Nevada,NV,2013,True,False,True,False
+420971,New Mexico,NM,2015,True,True,False,False
+420975,West Virginia,WV,2014,True,False,True,False
+420980,West Virginia,WV,2019,True,False,True,False
+420982,Puerto Rico,PR,2014,True,False,True,False
+421015,Utah,UT,2017,True,True,False,False
+421040,South Carolina,SC,2015,True,True,False,False
+421046,New Jersey,NJ,2017,True,False,True,False
+421084,New Mexico,NM,2018,True,False,True,False
+421097,West Virginia,WV,2015,True,True,False,False
+421106,Pennsylvania,PA,2014,True,False,True,False
+421113,Puerto Rico,PR,2012,True,False,True,False
+421115,Nebraska,NE,2017,True,False,True,False
+421119,Massachusetts,MA,2012,True,True,False,False
+421126,South Carolina,SC,2019,True,True,False,False
+421130,New Mexico,NM,2014,True,True,False,False
+421144,South Dakota,SD,2017,True,False,True,False
+421158,Montana,MT,2019,True,False,True,False
+421167,Oregon,OR,2013,True,True,False,False
+421177,Wisconsin,WI,2017,True,False,True,False
+421180,New Mexico,NM,2019,True,True,False,False
+421200,West Virginia,WV,2017,True,True,False,False
+421201,Puerto Rico,PR,2018,True,False,True,False
+421215,Nebraska,NE,2019,True,True,False,False
+421222,New York,NY,2014,True,True,False,False
+421238,Maryland,MD,2019,True,True,False,False
+421245,New Mexico,NM,2012,True,False,True,False
+421247,West Virginia,WV,2018,True,False,True,False
+421274,Texas,TX,2014,True,False,True,False
+421289,United States,US,2019,True,False,True,False
+421292,Rhode Island,RI,2018,True,True,False,False
+421295,Oklahoma,OK,2013,True,True,False,False
+421301,Nebraska,NE,2017,True,True,False,False
+421309,Nebraska,NE,2012,True,False,True,False
+421311,Tennessee,TN,2014,True,False,True,False
+421317,Michigan,MI,2014,True,False,True,False
+421320,Texas,TX,2016,True,False,True,False
+421356,New York,NY,2016,True,True,False,False
+421357,Louisiana,LA,2016,True,True,False,False
+421359,United States,US,2018,True,False,True,False
+421382,New Mexico,NM,2016,True,True,False,False
+421408,Nebraska,NE,2015,True,False,True,False
+421409,Virginia,VA,2016,True,False,True,False
+421440,Ohio,OH,2016,True,True,False,False
+421441,South Carolina,SC,2017,True,True,False,False
+421447,Minnesota,MN,2015,True,False,True,False
+421451,United States,US,2015,True,True,False,False
+421469,Mississippi,MS,2016,True,False,True,False
+421501,Missouri,MO,2012,True,True,False,False
+421503,Utah,UT,2011,True,True,False,False
+421505,United States,US,2017,True,True,False,False
+421512,Utah,UT,2016,True,True,False,False
+421529,Michigan,MI,2011,True,True,False,False
+421555,New York,NY,2012,True,True,False,False
+421590,Virginia,VA,2011,True,False,True,False
+421594,Washington,WA,2013,True,False,True,False
+421606,Oklahoma,OK,2011,True,True,False,False
+421615,Texas,TX,2018,True,True,False,False
+421633,Michigan,MI,2013,True,True,False,False
+421666,Nebraska,NE,2019,True,False,True,False
+421708,Ohio,OH,2014,True,True,False,False
+421722,New Hampshire,NH,2012,True,False,True,False
+421725,Virginia,VA,2013,True,False,True,False
+421727,Minnesota,MN,2013,True,False,True,False
+421747,Nevada,NV,2015,True,False,True,False
+421762,Nebraska,NE,2013,True,False,True,False
+421763,Guam,GU,2017,True,False,True,False
+421793,Mississippi,MS,2018,True,False,True,False
+421799,South Carolina,SC,2014,True,True,False,False
+421805,Maryland,MD,2017,True,True,False,False
+421815,Vermont,VT,2019,True,False,True,False
+421834,New York,NY,2015,True,False,True,False
+421845,South Carolina,SC,2013,True,True,False,False
+421848,New Mexico,NM,2014,True,False,True,False
+421862,Wisconsin,WI,2013,True,False,True,False
+421869,Virgin Islands,VI,2012,True,True,False,False
+421881,West Virginia,WV,2013,True,True,False,False
+421883,Guam,GU,2015,True,False,True,False
+421887,Montana,MT,2015,True,True,False,False
+421890,Tennessee,TN,2016,True,False,True,False
+421896,Tennessee,TN,2019,True,False,True,False
+421898,South Carolina,SC,2012,True,True,False,False
+421901,New York,NY,2018,True,True,False,False
+421918,Massachusetts,MA,2014,True,True,False,False
+421934,Louisiana,LA,2014,True,True,False,False
+421949,West Virginia,WV,2019,True,True,False,False
+421951,Ohio,OH,2018,True,True,False,False
+421952,Pennsylvania,PA,2016,True,False,True,False
+421959,New Mexico,NM,2016,True,False,True,False
+421970,Tennessee,TN,2013,True,False,True,False
+421985,Oregon,OR,2011,True,True,False,False
+421993,New Jersey,NJ,2018,True,False,True,False
+421997,South Dakota,SD,2017,True,True,False,False
+422005,Pennsylvania,PA,2014,True,True,False,False
+422026,Pennsylvania,PA,2012,True,True,False,False
+422034,New Mexico,NM,2018,True,True,False,False
+422053,Montana,MT,2013,True,False,True,False
+422059,Kentucky,KY,2019,True,False,True,False
+422085,South Dakota,SD,2018,True,True,False,False
+422087,Washington,WA,2011,True,False,True,False
+422093,Missouri,MO,2018,True,False,True,False
+422103,Maryland,MD,2019,True,False,True,False
+422104,Guam,GU,2015,True,False,True,False
+422106,Tennessee,TN,2018,True,False,True,False
+422118,South Carolina,SC,2018,True,False,True,False
+422131,Michigan,MI,2016,True,False,True,False
+422133,West Virginia,WV,2015,True,False,True,False
+422153,New Hampshire,NH,2016,True,True,False,False
+422204,Oklahoma,OK,2013,True,False,True,False
+422215,Montana,MT,2019,True,True,False,False
+422222,Tennessee,TN,2014,True,True,False,False
+422230,Texas,TX,2018,True,False,True,False
+422252,New York,NY,2016,True,False,True,False
+422258,Minnesota,MN,2015,True,True,False,False
+422262,Nebraska,NE,2012,True,True,False,False
+422287,Vermont,VT,2016,True,True,False,False
+422294,Virgin Islands,VI,2011,True,False,True,False
+422296,South Carolina,SC,2019,True,False,True,False
+422305,New Mexico,NM,2012,True,True,False,False
+422319,New Jersey,NJ,2013,True,False,True,False
+422335,Massachusetts,MA,2016,True,False,True,False
+422338,Utah,UT,2011,True,False,True,False
+422358,Louisiana,LA,2016,True,False,True,False
+422365,Missouri,MO,2013,True,True,False,False
+422374,Oregon,OR,2013,True,False,True,False
+422378,Virginia,VA,2011,True,True,False,False
+422385,Michigan,MI,2018,True,True,False,False
+422413,South Dakota,SD,2016,True,True,False,False
+422419,Guam,GU,2017,True,False,True,False
+422428,Missouri,MO,2012,True,False,True,False
+422444,Missouri,MO,2019,True,True,False,False
+422452,Montana,MT,2017,True,True,False,False
+422474,Nebraska,NE,2015,True,True,False,False
+422478,New Hampshire,NH,2018,True,True,False,False
+422489,Montana,MT,2014,True,False,True,False
+422497,Minnesota,MN,2011,True,True,False,False
+422552,Minnesota,MN,2013,True,True,False,False
+422565,Utah,UT,2017,True,True,False,False
+422579,Nebraska,NE,2013,True,True,False,False
+422587,Montana,MT,2016,True,False,True,False
+422588,West Virginia,WV,2013,True,False,True,False
+422620,Puerto Rico,PR,2012,True,False,True,False
+422629,Montana,MT,2011,True,False,True,False
+422637,Louisiana,LA,2012,True,False,True,False
+422640,Michigan,MI,2011,True,False,True,False
+422656,New Jersey,NJ,2011,True,False,True,False
+422671,Virginia,VA,2013,True,True,False,False
+422680,Tennessee,TN,2019,True,True,False,False
+422684,Louisiana,LA,2014,True,False,True,False
+422708,South Carolina,SC,2014,True,False,True,False
+422714,Maryland,MD,2017,True,False,True,False
+422718,South Dakota,SD,2013,True,True,False,False
+422722,Michigan,MI,2013,True,False,True,False
+422728,United States,US,2013,True,False,True,False
+422747,Puerto Rico,PR,2018,True,False,True,False
+422760,New York,NY,2018,True,False,True,False
+422764,Nebraska,NE,2014,True,True,False,False
+422777,United States,US,2019,True,False,True,False
+422779,Utah,UT,2014,True,False,True,False
+422780,Pennsylvania,PA,2016,True,True,False,False
+422791,Oregon,OR,2019,True,True,False,False
+422810,South Carolina,SC,2012,True,False,True,False
+422819,Tennessee,TN,2013,True,True,False,False
+422826,South Dakota,SD,2011,True,True,False,False
+422831,Montana,MT,2015,True,False,True,False
+422839,South Carolina,SC,2017,True,False,True,False
+422848,New Jersey,NJ,2019,True,True,False,False
+422864,South Carolina,SC,2018,True,True,False,False
+422871,South Carolina,SC,2016,True,False,True,False
+422876,Vermont,VT,2014,True,False,True,False
+422879,Washington,WA,2017,True,False,True,False
+422889,South Carolina,SC,2011,True,False,True,False
+422899,Oregon,OR,2011,True,False,True,False
+422903,Massachusetts,MA,2018,True,False,True,False
+422944,Guam,GU,2012,True,True,False,False
+422982,South Dakota,SD,2015,True,True,False,False
+423004,Oklahoma,OK,2014,True,False,True,False
+423010,Oregon,OR,2015,True,True,False,False
+423012,Virginia,VA,2017,True,True,False,False
+423022,Montana,MT,2011,True,True,False,False
+423029,Tennessee,TN,2012,True,True,False,False
+423031,Texas,TX,2019,True,False,True,False
+423044,Tennessee,TN,2017,True,True,False,False
+423055,Puerto Rico,PR,2014,True,False,True,False
+423067,Texas,TX,2017,True,False,True,False
+423086,New Hampshire,NH,2016,True,False,True,False
+423097,New Jersey,NJ,2015,True,True,False,False
+423099,Washington,WA,2019,True,False,True,False
+423105,Massachusetts,MA,2019,True,False,True,False
+423110,Massachusetts,MA,2015,True,True,False,False
+423115,Virginia,VA,2019,True,True,False,False
+423124,Tennessee,TN,2015,True,True,False,False
+423129,Missouri,MO,2019,True,False,True,False
+423132,Wyoming,WY,2018,True,True,False,False
+423136,New Jersey,NJ,2013,True,True,False,False
+423153,Virgin Islands,VI,2016,True,True,False,False
+423157,Montana,MT,2013,True,True,False,False
+423164,Missouri,MO,2014,True,False,True,False
+423167,North Dakota,ND,2011,True,False,True,False
+423184,Rhode Island,RI,2011,True,True,False,False
+423187,Vermont,VT,2012,True,False,True,False
+423189,Michigan,MI,2016,True,True,False,False
+423191,Montana,MT,2012,True,True,False,False
+423206,Massachusetts,MA,2017,True,False,True,False
+423211,Missouri,MO,2016,True,False,True,False
+423254,Montana,MT,2018,True,True,False,False
+423260,Michigan,MI,2018,True,False,True,False
+423265,Vermont,VT,2012,True,True,False,False
+423271,New Mexico,NM,2012,True,False,True,False
+423273,Minnesota,MN,2017,True,True,False,False
+423287,Utah,UT,2013,True,False,True,False
+423289,Tennessee,TN,2018,True,True,False,False
+423297,Vermont,VT,2018,True,True,False,False
+423317,Nebraska,NE,2016,True,True,False,False
+423331,United States,US,2017,True,False,True,False
+423335,Virginia,VA,2015,True,True,False,False
+423344,Nebraska,NE,2013,True,False,True,False
+423358,Massachusetts,MA,2015,True,False,True,False
+423360,South Dakota,SD,2019,True,True,False,False
+423366,Minnesota,MN,2011,True,False,True,False
+423372,United States,US,2018,True,True,False,False
+423384,Utah,UT,2012,True,False,True,False
+423407,Guam,GU,2019,True,False,True,False
+423412,Utah,UT,2015,True,False,True,False
+423413,Minnesota,MN,2019,True,True,False,False
+423421,Tennessee,TN,2011,True,True,False,False
+423422,Puerto Rico,PR,2016,True,False,True,False
+423431,South Carolina,SC,2015,True,False,True,False
+423436,Montana,MT,2017,True,False,True,False
+423438,New Jersey,NJ,2017,True,True,False,False
+423443,Montana,MT,2016,True,True,False,False
+423460,Michigan,MI,2014,True,True,False,False
+423496,Michigan,MI,2012,True,False,True,False
+423497,Utah,UT,2017,True,False,True,False
+423525,North Dakota,ND,2013,True,False,True,False
+423537,Wisconsin,WI,2011,True,False,True,False
+423565,Montana,MT,2014,True,True,False,False
+423586,Nevada,NV,2013,True,True,False,False
+423593,Oklahoma,OK,2016,True,False,True,False
+423603,Guam,GU,2012,True,False,True,False
+423629,Vermont,VT,2014,True,True,False,False
+423632,New Jersey,NJ,2019,True,False,True,False
+423633,South Dakota,SD,2014,True,True,False,False
+423635,Oklahoma,OK,2018,True,False,True,False
+423638,Oklahoma,OK,2012,True,False,True,False
+423650,New Hampshire,NH,2018,True,False,True,False
+423660,Oregon,OR,2017,True,True,False,False
+423686,Rhode Island,RI,2013,True,False,True,False
+423729,New Jersey,NJ,2011,True,True,False,False
+423746,Virgin Islands,VI,2018,True,True,False,False
+423762,Washington,WA,2012,True,True,False,False
+423783,Pennsylvania,PA,2018,True,True,False,False
+423791,Washington,WA,2015,True,False,True,False
+423798,Massachusetts,MA,2012,True,False,True,False
+423844,Wisconsin,WI,2013,True,False,True,False
+423846,Missouri,MO,2014,True,True,False,False
+423856,New Mexico,NM,2019,True,False,True,False
+423860,Rhode Island,RI,2017,True,False,True,False
+423875,Guam,GU,2013,True,False,True,False
+423883,New Mexico,NM,2014,True,False,True,False
+423888,New Hampshire,NH,2014,True,True,False,False
+423893,Wisconsin,WI,2017,True,False,True,False
+423901,Rhode Island,RI,2019,True,True,False,False
+423909,Utah,UT,2016,True,False,True,False
+423914,Virgin Islands,VI,2015,True,False,True,False
+423926,Texas,TX,2011,True,False,True,False
+423931,Massachusetts,MA,2017,True,True,False,False
+423937,United States,US,2011,True,False,True,False
+423941,South Carolina,SC,2012,True,True,False,False
+423949,Washington,WA,2018,True,True,False,False
+423954,Rhode Island,RI,2014,True,False,True,False
+423961,Virginia,VA,2018,True,False,True,False
+423962,New Hampshire,NH,2019,True,True,False,False
+424022,North Dakota,ND,2019,True,False,True,False
+424043,Nebraska,NE,2017,True,False,True,False
+424055,West Virginia,WV,2015,True,False,True,False
+424075,Virgin Islands,VI,2017,True,False,True,False
+424092,Guam,GU,2013,True,False,True,False
+424098,Virginia,VA,2011,True,False,True,False
+424108,South Carolina,SC,2011,True,True,False,False
+424122,New York,NY,2011,True,False,True,False
+424123,Nebraska,NE,2019,True,False,True,False
+424125,Ohio,OH,2016,True,False,True,False
+424135,Montana,MT,2013,True,False,True,False
+424139,Texas,TX,2014,True,False,True,False
+424142,Texas,TX,2017,True,True,False,False
+424145,Texas,TX,2012,True,True,False,False
+424152,Oklahoma,OK,2014,True,True,False,False
+424168,United States,US,2018,True,False,True,False
+424179,Michigan,MI,2016,True,False,True,False
+424182,Mississippi,MS,2016,True,True,False,False
+424224,Nebraska,NE,2017,True,True,False,False
+424229,United States,US,2016,True,True,False,False
+424234,South Carolina,SC,2014,True,True,False,False
+424244,Texas,TX,2016,True,False,True,False
+424256,Missouri,MO,2016,True,True,False,False
+424262,Michigan,MI,2014,True,False,True,False
+424274,Tennessee,TN,2019,True,True,False,False
+424286,Texas,TX,2013,True,False,True,False
+424294,Missouri,MO,2015,True,True,False,False
+424315,Nevada,NV,2012,True,False,True,False
+424319,Ohio,OH,2014,True,False,True,False
+424330,Rhode Island,RI,2016,True,False,True,False
+424338,Nebraska,NE,2019,True,True,False,False
+424342,Virgin Islands,VI,2013,True,False,True,False
+424348,Utah,UT,2012,True,True,False,False
+424349,Nevada,NV,2015,True,True,False,False
+424359,Nebraska,NE,2015,True,False,True,False
+424363,Ohio,OH,2012,True,False,True,False
+424367,Ohio,OH,2019,True,False,True,False
+424374,South Dakota,SD,2012,True,True,False,False
+424385,New Jersey,NJ,2016,True,False,True,False
+424394,Missouri,MO,2017,True,True,False,False
+424407,Utah,UT,2011,True,True,False,False
+424411,New Mexico,NM,2016,True,False,True,False
+424454,Missouri,MO,2012,True,True,False,False
+424465,Utah,UT,2014,True,True,False,False
+424471,Guam,GU,2011,True,False,True,False
+424472,South Carolina,SC,2013,True,False,True,False
+424478,New Mexico,NM,2018,True,False,True,False
+424486,Ohio,OH,2017,True,False,True,False
+424491,New Jersey,NJ,2014,True,False,True,False
+424510,New Mexico,NM,2014,True,True,False,False
+424534,Washington,WA,2013,True,False,True,False
+424535,Mississippi,MS,2018,True,True,False,False
+424541,West Virginia,WV,2011,True,True,False,False
+424556,Rhode Island,RI,2015,True,True,False,False
+424567,Virgin Islands,VI,2017,True,True,False,False
+424574,Virginia,VA,2016,True,False,True,False
+424627,New Mexico,NM,2016,True,True,False,False
+424629,Minnesota,MN,2013,True,True,False,False
+424658,Virginia,VA,2013,True,False,True,False
+424671,Rhode Island,RI,2013,True,True,False,False
+424672,Rhode Island,RI,2018,True,True,False,False
+424676,Massachusetts,MA,2014,True,False,True,False
+424684,New Hampshire,NH,2012,True,True,False,False
+424695,Virgin Islands,VI,2019,True,False,True,False
+424699,Rhode Island,RI,2017,True,True,False,False
+424711,Louisiana,LA,2018,True,False,True,False
+424722,Texas,TX,2019,True,True,False,False
+424724,Wisconsin,WI,2014,True,False,True,False
+424734,Oklahoma,OK,2012,True,True,False,False
+424738,Nebraska,NE,2018,True,True,False,False
+424750,Maryland,MD,2013,True,False,True,False
+424754,New Mexico,NM,2017,True,False,True,False
+424757,Utah,UT,2015,True,True,False,False
+424763,Nebraska,NE,2011,True,False,True,False
+424764,Utah,UT,2013,True,True,False,False
+424771,Virgin Islands,VI,2013,True,True,False,False
+424782,North Carolina,NC,2012,True,True,False,False
+424792,New Jersey,NJ,2015,True,False,True,False
+424794,Mississippi,MS,2014,True,True,False,False
+424809,Maine,ME,2017,True,True,False,False
+424813,Tennessee,TN,2016,True,True,False,False
+424837,Wisconsin,WI,2016,True,False,True,False
+424849,New York,NY,2011,True,True,False,False
+424869,Maryland,MD,2011,True,False,True,False
+424906,Nevada,NV,2017,True,True,False,False
+424920,South Carolina,SC,2018,True,True,False,False
+424927,New Jersey,NJ,2017,True,False,True,False
+424950,Montana,MT,2018,True,False,True,False
+424957,Missouri,MO,2011,True,True,False,False
+424962,Nevada,NV,2011,True,True,False,False
+424983,Texas,TX,2012,True,False,True,False
+425007,South Carolina,SC,2011,True,False,True,False
+425014,Nevada,NV,2014,True,True,False,False
+425033,New Mexico,NM,2011,True,False,True,False
+425069,Virgin Islands,VI,2019,True,True,False,False
+425075,Oklahoma,OK,2014,True,False,True,False
+425081,Minnesota,MN,2014,True,True,False,False
+425086,Massachusetts,MA,2019,True,True,False,False
+425090,Texas,TX,2014,True,True,False,False
+425093,North Dakota,ND,2017,True,False,True,False
+425097,Michigan,MI,2015,True,False,True,False
+425131,Wisconsin,WI,2015,True,False,True,False
+425139,North Carolina,NC,2014,True,True,False,False
+425149,Mississippi,MS,2012,True,True,False,False
+425159,Maine,ME,2019,True,True,False,False
+425182,Texas,TX,2016,True,True,False,False
+425197,Nevada,NV,2014,True,False,True,False
+425201,Michigan,MI,2012,True,True,False,False
+425209,Rhode Island,RI,2016,True,True,False,False
+425235,West Virginia,WV,2019,True,False,True,False
+425243,Missouri,MO,2018,True,True,False,False
+425244,Louisiana,LA,2013,True,True,False,False
+425245,New Jersey,NJ,2011,True,True,False,False
+425260,North Dakota,ND,2015,True,False,True,False
+425274,New Mexico,NM,2015,True,False,True,False
+425318,Tennessee,TN,2019,True,False,True,False
+425331,Maine,ME,2011,True,False,True,False
+425341,Nevada,NV,2012,True,True,False,False
+425356,Rhode Island,RI,2013,True,False,True,False
+425359,Ohio,OH,2017,True,True,False,False
+425361,West Virginia,WV,2017,True,False,True,False
+425374,New Mexico,NM,2013,True,False,True,False
+425423,Maine,ME,2018,True,False,True,False
+425428,United States,US,2015,True,False,True,False
+425436,Ohio,OH,2019,True,True,False,False
+425437,Texas,TX,2018,True,True,False,False
+425444,Nevada,NV,2019,True,True,False,False
+425455,Wisconsin,WI,2012,True,False,True,False
+425471,West Virginia,WV,2012,True,False,True,False
+425477,Rhode Island,RI,2015,True,False,True,False
+425482,South Carolina,SC,2016,True,True,False,False
+425489,Texas,TX,2015,True,False,True,False
+425517,Wisconsin,WI,2018,True,False,True,False
+425538,Maryland,MD,2015,True,False,True,False
+425549,Rhode Island,RI,2018,True,False,True,False
+425561,United States,US,2013,True,True,False,False
+425590,South Dakota,SD,2014,True,True,False,False
+425600,Tennessee,TN,2015,True,True,False,False
+425601,Wyoming,WY,2013,True,False,True,False
+425617,Oklahoma,OK,2018,True,False,True,False
+425618,Maryland,MD,2018,True,False,True,False
+425622,Pennsylvania,PA,2015,True,True,False,False
+425626,Michigan,MI,2017,True,False,True,False
+425630,South Carolina,SC,2019,True,False,True,False
+425650,Oregon,OR,2017,True,True,False,False
+425652,Pennsylvania,PA,2013,True,True,False,False
+425667,Louisiana,LA,2011,True,False,True,False
+425670,Washington,WA,2016,True,True,False,False
+425681,South Carolina,SC,2015,True,False,True,False
+425690,Oregon,OR,2013,True,False,True,False
+425701,Minnesota,MN,2017,True,True,False,False
+425741,Virgin Islands,VI,2011,True,True,False,False
+425799,Virginia,VA,2015,True,True,False,False
+425807,Minnesota,MN,2011,True,False,True,False
+425816,Minnesota,MN,2019,True,True,False,False
+425818,Minnesota,MN,2016,True,True,False,False
+425824,Michigan,MI,2018,True,False,True,False
+425860,Oregon,OR,2014,True,False,True,False
+425868,Nebraska,NE,2016,True,True,False,False
+425875,Louisiana,LA,2017,True,False,True,False
+425887,Tennessee,TN,2018,True,False,True,False
+425927,Wyoming,WY,2019,True,False,True,False
+425944,Oklahoma,OK,2016,True,False,True,False
+425948,Montana,MT,2014,True,True,False,False
+425953,Oregon,OR,2015,True,True,False,False
+425959,New York,NY,2017,True,False,True,False
+425965,Louisiana,LA,2011,True,True,False,False
+425980,South Carolina,SC,2013,True,False,True,False
+425983,Washington,WA,2014,True,True,False,False
+425987,Louisiana,LA,2014,True,False,True,False
+425989,Maryland,MD,2016,True,False,True,False
+426002,Virgin Islands,VI,2015,True,True,False,False
+426010,New Jersey,NJ,2013,True,True,False,False
+426029,Kentucky,KY,2019,True,False,True,False
+426042,Texas,TX,2019,True,False,True,False
+426045,Louisiana,LA,2013,True,False,True,False
+426057,Virginia,VA,2019,True,True,False,False
+426063,North Dakota,ND,2011,True,False,True,False
+426065,New Hampshire,NH,2017,True,True,False,False
+426073,Rhode Island,RI,2011,True,True,False,False
+426079,United States,US,2015,True,False,True,False
+426081,Oregon,OR,2019,True,True,False,False
+426085,Montana,MT,2017,True,False,True,False
+426091,Nebraska,NE,2014,True,True,False,False
+426146,Virginia,VA,2018,True,True,False,False
+426158,Washington,WA,2012,True,True,False,False
+426164,Pennsylvania,PA,2013,True,False,True,False
+426166,Pennsylvania,PA,2017,True,True,False,False
+426171,United States,US,2019,True,True,False,False
+426191,Tennessee,TN,2018,True,True,False,False
+426200,Montana,MT,2015,True,False,True,False
+426203,Virgin Islands,VI,2013,True,False,True,False
+426220,North Dakota,ND,2018,True,True,False,False
+426221,Oregon,OR,2011,True,False,True,False
+426235,Utah,UT,2012,True,False,True,False
+426244,New York,NY,2012,True,False,True,False
+426261,New York,NY,2019,True,False,True,False
+426274,Tennessee,TN,2017,True,True,False,False
+426281,Mississippi,MS,2013,True,False,True,False
+426308,Montana,MT,2016,True,True,False,False
+426331,Ohio,OH,2011,True,True,False,False
+426338,South Carolina,SC,2018,True,False,True,False
+426345,New Hampshire,NH,2013,True,False,True,False
+426347,South Dakota,SD,2012,True,True,False,False
+426369,Texas,TX,2017,True,False,True,False
+426376,North Dakota,ND,2013,True,False,True,False
+426406,New Hampshire,NH,2015,True,True,False,False
+426413,Louisiana,LA,2015,True,False,True,False
+426436,Montana,MT,2012,True,True,False,False
+426443,North Dakota,ND,2012,True,True,False,False
+426458,North Carolina,NC,2019,True,False,True,False
+426464,United States,US,2014,True,False,True,False
+426466,Maine,ME,2012,True,True,False,False
+426478,New York,NY,2016,True,False,True,False
+426490,Maryland,MD,2017,True,False,True,False
+426491,Oklahoma,OK,2015,True,False,True,False
+426497,Virgin Islands,VI,2017,True,False,True,False
+426503,Guam,GU,2017,True,True,False,False
+426521,Ohio,OH,2015,True,True,False,False
+426541,Maine,ME,2014,True,True,False,False
+426545,New York,NY,2018,True,False,True,False
+426555,Utah,UT,2014,True,False,True,False
+426566,South Carolina,SC,2014,True,False,True,False
+426568,North Carolina,NC,2013,True,False,True,False
+426574,Virgin Islands,VI,2019,True,False,True,False
+426588,New Mexico,NM,2011,True,False,True,False
+426590,Pennsylvania,PA,2016,True,True,False,False
+426604,North Dakota,ND,2017,True,False,True,False
+426613,Nevada,NV,2018,True,False,True,False
+426626,Oregon,OR,2012,True,False,True,False
+426629,South Carolina,SC,2017,True,False,True,False
+426639,Guam,GU,2011,True,False,True,False
+426641,Tennessee,TN,2013,True,True,False,False
+426646,Pennsylvania,PA,2011,True,True,False,False
+426648,South Dakota,SD,2016,True,True,False,False
+426659,Wyoming,WY,2015,True,True,False,False
+426674,South Carolina,SC,2016,True,False,True,False
+426686,Pennsylvania,PA,2014,True,True,False,False
+426687,North Carolina,NC,2015,True,False,True,False
+426698,North Carolina,NC,2018,True,True,False,False
+426702,Maine,ME,2015,True,False,True,False
+426712,Nevada,NV,2016,True,False,True,False
+426717,Maryland,MD,2014,True,True,False,False
+426727,Massachusetts,MA,2018,True,False,True,False
+426729,New Hampshire,NH,2018,True,True,False,False
+426735,United States,US,2016,True,True,False,False
+426744,Virginia,VA,2016,True,True,False,False
+426748,Wisconsin,WI,2017,True,True,False,False
+426753,Oregon,OR,2016,True,False,True,False
+426755,New Jersey,NJ,2012,True,True,False,False
+426786,Louisiana,LA,2012,True,False,True,False
+426799,Virginia,VA,2017,True,True,False,False
+426806,Wyoming,WY,2013,True,True,False,False
+426824,Virgin Islands,VI,2019,True,True,False,False
+426830,North Dakota,ND,2014,True,True,False,False
+426835,West Virginia,WV,2013,True,False,True,False
+426839,New Hampshire,NH,2016,True,True,False,False
+426842,Rhode Island,RI,2012,True,True,False,False
+426858,United States,US,2011,True,False,True,False
+426865,Michigan,MI,2011,True,False,True,False
+426868,Oregon,OR,2018,True,False,True,False
+426871,Puerto Rico,PR,2014,True,True,False,False
+426888,Virginia,VA,2014,True,True,False,False
+426898,Montana,MT,2019,True,True,False,False
+426908,Montana,MT,2011,True,False,True,False
+426910,Mississippi,MS,2011,True,True,False,False
+426929,Wyoming,WY,2015,True,False,True,False
+426930,Washington,WA,2011,True,True,False,False
+426932,Wyoming,WY,2011,True,True,False,False
+426934,Minnesota,MN,2015,True,True,False,False
+426935,North Carolina,NC,2011,True,False,True,False
+426984,Michigan,MI,2013,True,False,True,False
+426987,Oklahoma,OK,2019,True,False,True,False
+426992,Minnesota,MN,2012,True,False,True,False
+426993,Nebraska,NE,2012,True,True,False,False
+427008,Minnesota,MN,2018,True,True,False,False
+427011,Virginia,VA,2014,True,False,True,False
+427015,North Carolina,NC,2019,True,True,False,False
+427021,Massachusetts,MA,2016,True,False,True,False
+427022,North Dakota,ND,2012,True,False,True,False
+427031,Guam,GU,2011,True,True,False,False
+427041,Louisiana,LA,2016,True,False,True,False
+427079,Michigan,MI,2019,True,False,True,False
+427091,North Carolina,NC,2016,True,True,False,False
+427094,Wyoming,WY,2017,True,True,False,False
+427122,Guam,GU,2015,True,True,False,False
+427125,Missouri,MO,2019,True,True,False,False
+427144,Louisiana,LA,2015,True,True,False,False
+427150,New Jersey,NJ,2018,True,False,True,False
+427177,Pennsylvania,PA,2019,True,True,False,False
+427184,Maine,ME,2016,True,True,False,False
+427188,North Dakota,ND,2016,True,True,False,False
+427189,Pennsylvania,PA,2012,True,True,False,False
+427204,South Dakota,SD,2018,True,True,False,False
+427218,Oregon,OR,2018,True,True,False,False
+427237,Tennessee,TN,2011,True,True,False,False
+427259,Virgin Islands,VI,2015,True,False,True,False
+427262,Oklahoma,OK,2013,True,False,True,False
+427270,Wyoming,WY,2017,True,False,True,False
+427282,Puerto Rico,PR,2012,True,True,False,False
+427284,North Carolina,NC,2017,True,False,True,False
+427292,Louisiana,LA,2019,True,True,False,False
+427302,Maine,ME,2013,True,False,True,False
+427315,Maryland,MD,2012,True,True,False,False
+427328,Oregon,OR,2016,True,True,False,False
+427341,Oklahoma,OK,2017,True,False,True,False
+427350,Wisconsin,WI,2015,True,True,False,False
+427382,Mississippi,MS,2017,True,False,True,False
+427384,New York,NY,2013,True,True,False,False
+427391,Guam,GU,2012,True,False,True,False
+427393,Guam,GU,2011,True,True,False,False
+427404,Puerto Rico,PR,2016,True,True,False,False
+427413,North Dakota,ND,2018,True,False,True,False
+427414,New Mexico,NM,2013,True,False,True,False
+427444,Nevada,NV,2019,True,True,False,False
+427453,Texas,TX,2011,True,True,False,False
+427457,New York,NY,2019,True,True,False,False
+427461,Virgin Islands,VI,2017,True,True,False,False
+427467,Minnesota,MN,2016,True,True,False,False
+427474,Virgin Islands,VI,2016,True,False,True,False
+427484,Ohio,OH,2016,True,False,True,False
+427486,Michigan,MI,2017,True,False,True,False
+427493,Missouri,MO,2013,True,True,False,False
+427496,Maine,ME,2018,True,False,True,False
+427497,Texas,TX,2015,True,False,True,False
+427518,Rhode Island,RI,2015,True,False,True,False
+427519,New York,NY,2014,True,False,True,False
+427532,Wisconsin,WI,2012,True,False,True,False
+427540,New Hampshire,NH,2013,True,True,False,False
+427562,New York,NY,2017,True,True,False,False
+427565,Massachusetts,MA,2011,True,False,True,False
+427573,Rhode Island,RI,2018,True,False,True,False
+427577,West Virginia,WV,2012,True,True,False,False
+427582,Mississippi,MS,2019,True,False,True,False
+427584,Texas,TX,2014,True,True,False,False
+427597,Maryland,MD,2016,True,True,False,False
+427600,Mississippi,MS,2017,True,True,False,False
+427607,Louisiana,LA,2018,True,False,True,False
+427631,Nebraska,NE,2018,True,True,False,False
+427638,New Mexico,NM,2019,True,False,True,False
+427642,Maine,ME,2019,True,True,False,False
+427651,Texas,TX,2016,True,True,False,False
+427657,Rhode Island,RI,2017,True,False,True,False
+427661,Ohio,OH,2015,True,False,True,False
+427681,Pennsylvania,PA,2015,True,False,True,False
+427683,North Dakota,ND,2015,True,False,True,False
+427699,Maine,ME,2017,True,True,False,False
+427707,Rhode Island,RI,2019,True,True,False,False
+427714,Washington,WA,2016,True,True,False,False
+427720,Pennsylvania,PA,2017,True,False,True,False
+427728,Puerto Rico,PR,2018,True,True,False,False
+427729,Maryland,MD,2019,True,False,True,False
+427763,Mississippi,MS,2013,True,True,False,False
+427765,Maine,ME,2011,True,False,True,False
+427808,Ohio,OH,2013,True,True,False,False
+427813,Nevada,NV,2017,True,True,False,False
+427840,New Hampshire,NH,2012,True,True,False,False
+427850,Washington,WA,2019,True,True,False,False
+427854,New York,NY,2012,True,False,True,False
+427860,West Virginia,WV,2016,True,True,False,False
+427869,Missouri,MO,2011,True,True,False,False
+427876,Massachusetts,MA,2013,True,True,False,False
+427888,Pennsylvania,PA,2019,True,False,True,False
+427901,West Virginia,WV,2014,True,True,False,False
+427910,Oklahoma,OK,2011,True,False,True,False
+427923,Maryland,MD,2018,True,True,False,False
+427935,New York,NY,2015,True,True,False,False
+427953,West Virginia,WV,2018,True,True,False,False
+427970,Nevada,NV,2011,True,True,False,False
+427985,Minnesota,MN,2014,True,True,False,False
+428004,South Carolina,SC,2012,True,False,True,False
+428005,Michigan,MI,2015,True,False,True,False
+428012,Ohio,OH,2011,True,False,True,False
+428016,Wisconsin,WI,2018,True,False,True,False
+428048,Maryland,MD,2015,True,False,True,False
+428060,Ohio,OH,2013,True,False,True,False
+428067,North Carolina,NC,2014,True,True,False,False
+428080,Rhode Island,RI,2017,True,True,False,False
+428086,Massachusetts,MA,2013,True,False,True,False
+428108,Vermont,VT,2015,True,False,True,False
+428114,New Mexico,NM,2017,True,False,True,False
+428120,Wisconsin,WI,2016,True,False,True,False
+428126,Virgin Islands,VI,2014,True,False,True,False
+428127,North Carolina,NC,2012,True,True,False,False
+428135,Mississippi,MS,2014,True,True,False,False
+428147,Maryland,MD,2013,True,False,True,False
+428149,Louisiana,LA,2017,True,True,False,False
+428159,Mississippi,MS,2019,True,True,False,False
+428172,New Mexico,NM,2015,True,False,True,False
+428217,Virgin Islands,VI,2012,True,False,True,False
+428221,Massachusetts,MA,2011,True,True,False,False
+428227,Minnesota,MN,2016,True,False,True,False
+428247,Ohio,OH,2018,True,False,True,False
+428278,Ohio,OH,2017,True,False,True,False
+428292,Nevada,NV,2016,True,True,False,False
+428302,New Jersey,NJ,2014,True,False,True,False
+428305,North Carolina,NC,2018,True,True,False,False
+428312,Virgin Islands,VI,2018,True,False,True,False
+428321,Mississippi,MS,2018,True,True,False,False
+428324,New Jersey,NJ,2012,True,True,False,False
+428341,Minnesota,MN,2018,True,False,True,False
+428342,Oklahoma,OK,2017,True,True,False,False
+428392,Maine,ME,2019,True,False,True,False
+428397,Guam,GU,2013,True,True,False,False
+428417,Wisconsin,WI,2011,True,True,False,False
+428436,Maine,ME,2018,True,True,False,False
+428439,New Hampshire,NH,2011,True,True,False,False
+428442,North Dakota,ND,2014,True,False,True,False
+428449,Louisiana,LA,2019,True,False,True,False
+428462,Rhode Island,RI,2013,True,True,False,False
+428474,Mississippi,MS,2011,True,False,True,False
+428482,Mississippi,MS,2016,True,True,False,False
+428503,Maryland,MD,2012,True,False,True,False
+428507,Texas,TX,2019,True,True,False,False
+428527,Wisconsin,WI,2014,True,False,True,False
+428528,Texas,TX,2013,True,True,False,False
+428533,Mississippi,MS,2015,True,True,False,False
+428539,South Dakota,SD,2019,True,False,True,False
+428567,Oklahoma,OK,2015,True,False,True,False
+428568,Ohio,OH,2014,True,False,True,False
+428599,North Dakota,ND,2016,True,False,True,False
+428600,Utah,UT,2012,True,True,False,False
+428604,Guam,GU,2019,True,True,False,False
+428622,Nevada,NV,2015,True,True,False,False
+428626,Wyoming,WY,2011,True,False,True,False
+428652,Maine,ME,2017,True,False,True,False
+428655,Missouri,MO,2015,True,True,False,False
+428656,Maryland,MD,2011,True,False,True,False
+428686,Pennsylvania,PA,2018,True,True,False,False
+428688,Oklahoma,OK,2019,True,True,False,False
+428694,Nevada,NV,2013,True,True,False,False
+428713,Wisconsin,WI,2013,True,True,False,False
+428716,Washington,WA,2018,True,True,False,False
+428737,Texas,TX,2012,True,True,False,False
+428743,West Virginia,WV,2011,True,True,False,False
+428746,Maine,ME,2013,True,False,True,False
+428779,North Dakota,ND,2019,True,False,True,False
+428791,Utah,UT,2014,True,True,False,False
+428797,Texas,TX,2015,True,True,False,False
+428801,Rhode Island,RI,2015,True,True,False,False
+428805,South Dakota,SD,2011,True,False,True,False
+428810,Rhode Island,RI,2012,True,False,True,False
+428814,Minnesota,MN,2014,True,False,True,False
+428816,Maine,ME,2012,True,False,True,False
+428819,Maryland,MD,2012,True,True,False,False
+428832,Texas,TX,2017,True,True,False,False
+428892,Massachusetts,MA,2014,True,False,True,False
+428921,Texas,TX,2013,True,False,True,False
+428955,North Carolina,NC,2013,True,True,False,False
+428971,New Jersey,NJ,2016,True,False,True,False
+428974,Rhode Island,RI,2016,True,False,True,False
+428978,Ohio,OH,2019,True,False,True,False
+428993,Virgin Islands,VI,2013,True,True,False,False
+428995,Massachusetts,MA,2012,True,False,True,False
+429007,New Hampshire,NH,2014,True,True,False,False
+429018,Ohio,OH,2012,True,False,True,False
+429022,Mississippi,MS,2015,True,False,True,False
+429024,Utah,UT,2016,True,False,True,False
+429025,Pennsylvania,PA,2011,True,False,True,False
+429034,Texas,TX,2011,True,False,True,False
+429043,United States,US,2012,True,True,False,False
+429049,Rhode Island,RI,2019,True,False,True,False
+429055,Maryland,MD,2014,True,False,True,False
+429060,Missouri,MO,2017,True,True,False,False
+429069,Nevada,NV,2018,True,True,False,False
+429073,New Hampshire,NH,2019,True,True,False,False
+429079,Rhode Island,RI,2014,True,False,True,False
+429115,Mississippi,MS,2012,True,True,False,False
+429131,North Carolina,NC,2015,True,False,True,False
+429152,North Dakota,ND,2016,True,True,False,False
+429171,Nevada,NV,2016,True,False,True,False
+429173,United States,US,2016,True,False,True,False
+429174,New Jersey,NJ,2012,True,False,True,False
+429191,New Mexico,NM,2011,True,True,False,False
+429206,Oregon,OR,2016,True,False,True,False
+429215,South Dakota,SD,2016,True,False,True,False
+429230,North Dakota,ND,2017,True,True,False,False
+429242,New Jersey,NJ,2014,True,True,False,False
+429257,New Hampshire,NH,2017,True,False,True,False
+429259,North Dakota,ND,2014,True,True,False,False
+429275,Puerto Rico,PR,2011,True,True,False,False
+429277,United States,US,2013,True,True,False,False
+429282,Washington,WA,2014,True,False,True,False
+429300,Louisiana,LA,2019,True,True,False,False
+429316,North Carolina,NC,2017,True,False,True,False
+429325,Oregon,OR,2016,True,True,False,False
+429334,Oklahoma,OK,2017,True,False,True,False
+429335,Virginia,VA,2014,True,True,False,False
+429352,Kentucky,KY,2019,True,True,False,False
+429364,Wisconsin,WI,2014,True,True,False,False
+429374,Michigan,MI,2019,True,False,True,False
+429380,Washington,WA,2013,True,True,False,False
+429381,Washington,WA,2011,True,True,False,False
+429385,Missouri,MO,2015,True,False,True,False
+429392,Wyoming,WY,2011,True,True,False,False
+429397,Wyoming,WY,2015,True,False,True,False
+429398,New Hampshire,NH,2015,True,False,True,False
+429427,Vermont,VT,2013,True,False,True,False
+429430,Washington,WA,2015,True,True,False,False
+429436,West Virginia,WV,2011,True,False,True,False
+429438,Pennsylvania,PA,2013,True,True,False,False
+429449,Maryland,MD,2011,True,True,False,False
+429463,Massachusetts,MA,2018,True,True,False,False
+429486,Oregon,OR,2014,True,False,True,False
+429492,Vermont,VT,2011,True,True,False,False
+429495,Puerto Rico,PR,2019,True,False,True,False
+429507,South Dakota,SD,2013,True,False,True,False
+429522,Louisiana,LA,2012,True,True,False,False
+429524,North Carolina,NC,2016,True,True,False,False
+429528,Virginia,VA,2017,True,False,True,False
+429543,South Dakota,SD,2015,True,False,True,False
+429562,Minnesota,MN,2018,True,True,False,False
+429589,Oregon,OR,2018,True,True,False,False
+429626,Maine,ME,2016,True,True,False,False
+429630,Maine,ME,2015,True,False,True,False
+429631,Tennessee,TN,2011,True,False,True,False
+429637,Vermont,VT,2013,True,True,False,False
+429644,Washington,WA,2016,True,False,True,False
+429650,Wyoming,WY,2012,True,True,False,False
+429669,North Dakota,ND,2019,True,True,False,False
+429674,Virginia,VA,2016,True,True,False,False
+429689,Wyoming,WY,2015,True,True,False,False
+429707,Wyoming,WY,2017,True,False,True,False
+429728,Wisconsin,WI,2017,True,True,False,False
+429730,Guam,GU,2018,True,True,False,False
+429734,Rhode Island,RI,2012,True,True,False,False
+429753,Maryland,MD,2014,True,True,False,False
+429761,Massachusetts,MA,2016,True,True,False,False
+429777,Louisiana,LA,2015,True,False,True,False
+429781,Maine,ME,2013,True,True,False,False
+429783,Wyoming,WY,2019,True,True,False,False
+429786,Oregon,OR,2018,True,False,True,False
+429809,Guam,GU,2018,True,True,False,False
+429818,New Jersey,NJ,2016,True,True,False,False
+429831,South Dakota,SD,2018,True,False,True,False
+429834,North Carolina,NC,2019,True,False,True,False
+429843,Mississippi,MS,2012,True,False,True,False
+429868,North Dakota,ND,2012,True,True,False,False
+429871,New Hampshire,NH,2014,True,False,True,False
+429873,North Carolina,NC,2013,True,False,True,False
+429882,United States,US,2012,True,True,False,False
+429890,Minnesota,MN,2012,True,False,True,False
+429898,Mississippi,MS,2011,True,True,False,False
+429902,Maine,ME,2014,True,True,False,False
+429903,Missouri,MO,2017,True,False,True,False
+429904,Wyoming,WY,2012,True,False,True,False
+429915,Oklahoma,OK,2019,True,False,True,False
+429920,Ohio,OH,2012,True,True,False,False
+429923,Virginia,VA,2014,True,False,True,False
+429927,North Carolina,NC,2011,True,True,False,False
+429936,Vermont,VT,2017,True,False,True,False
+429948,Pennsylvania,PA,2012,True,False,True,False
+429952,Virginia,VA,2018,True,True,False,False
+429953,North Dakota,ND,2012,True,False,True,False
+429958,Nevada,NV,2018,True,False,True,False
+429977,New Jersey,NJ,2018,True,True,False,False
+429980,New York,NY,2013,True,False,True,False
+429991,Oregon,OR,2012,True,False,True,False
+429992,New Hampshire,NH,2019,True,False,True,False
+429993,Puerto Rico,PR,2017,True,False,True,False
+429996,Washington,WA,2018,True,False,True,False
+430003,Virgin Islands,VI,2015,True,True,False,False
+430004,Pennsylvania,PA,2011,True,True,False,False
+430010,Wyoming,WY,2017,True,True,False,False
+430013,Wyoming,WY,2014,True,False,True,False
+430024,Michigan,MI,2017,True,True,False,False
+430041,Nevada,NV,2019,True,False,True,False
+430052,North Dakota,ND,2018,True,True,False,False
+430063,Vermont,VT,2011,True,False,True,False
+430071,Guam,GU,2016,True,True,False,False
+430077,Wyoming,WY,2016,True,False,True,False
+430103,New York,NY,2019,True,False,True,False
+430112,North Carolina,NC,2017,True,True,False,False
+430118,New Hampshire,NH,2013,True,False,True,False
+430134,New Hampshire,NH,2015,True,True,False,False
+430138,Oregon,OR,2017,True,False,True,False
+430153,Wisconsin,WI,2019,True,False,True,False
+430155,North Carolina,NC,2015,True,True,False,False
+430164,Wyoming,WY,2013,True,True,False,False
+430167,New York,NY,2017,True,False,True,False
+430168,Puerto Rico,PR,2013,True,True,False,False
+430170,North Dakota,ND,2016,True,False,True,False
+430183,Ohio,OH,2016,True,True,False,False
+430192,Missouri,MO,2013,True,False,True,False
+430196,Louisiana,LA,2011,True,True,False,False
+430203,Virgin Islands,VI,2012,True,False,True,False
+430210,Wyoming,WY,2014,True,True,False,False
+430213,South Dakota,SD,2014,True,False,True,False
+430214,Washington,WA,2014,True,True,False,False
+430251,Oregon,OR,2015,True,False,True,False
+430256,Maryland,MD,2016,True,False,True,False
+430257,Vermont,VT,2019,True,True,False,False
+430260,Oregon,OR,2014,True,True,False,False
+430264,Wyoming,WY,2016,True,True,False,False
+430265,United States,US,2014,True,False,True,False
+430267,Maine,ME,2012,True,True,False,False
+430272,Vermont,VT,2016,True,False,True,False
+430287,Louisiana,LA,2013,True,False,True,False
+430288,Virgin Islands,VI,2018,True,False,True,False
+430289,New Mexico,NM,2019,True,True,False,False
+430301,Pennsylvania,PA,2015,True,True,False,False
+430319,Maine,ME,2011,True,True,False,False
+430327,Louisiana,LA,2018,True,True,False,False
+430328,Pennsylvania,PA,2017,True,True,False,False
+430339,Vermont,VT,2017,True,True,False,False
+430359,Michigan,MI,2019,True,True,False,False
+430366,Guam,GU,2014,True,True,False,False
+430372,Puerto Rico,PR,2019,True,True,False,False
+430375,United States,US,2019,True,True,False,False
+430406,Louisiana,LA,2011,True,False,True,False
+430413,Nevada,NV,2017,True,False,True,False
+430414,Pennsylvania,PA,2013,True,False,True,False
+430421,North Carolina,NC,2016,True,False,True,False
+430437,North Dakota,ND,2015,True,True,False,False
+430450,Virginia,VA,2019,True,False,True,False
+430459,Louisiana,LA,2014,True,True,False,False
+430464,Missouri,MO,2011,True,False,True,False
+430473,Vermont,VT,2015,True,True,False,False
+430488,Ohio,OH,2011,True,True,False,False
+430499,Wisconsin,WI,2018,True,True,False,False
+430517,Louisiana,LA,2017,True,False,True,False
+430519,Virgin Islands,VI,2014,True,False,True,False
+430520,Louisiana,LA,2013,True,True,False,False
+430522,Maryland,MD,2015,True,True,False,False
+430536,Maine,ME,2015,True,True,False,False
+430538,Maine,ME,2016,True,False,True,False
+430558,Utah,UT,2018,True,False,True,False
+430563,Washington,WA,2012,True,False,True,False
+430575,South Dakota,SD,2017,True,False,True,False
+430585,Wyoming,WY,2019,True,False,True,False
+430598,Michigan,MI,2015,True,True,False,False
+430599,United States,US,2011,True,True,False,False
+430600,Washington,WA,2017,True,True,False,False
+430613,Puerto Rico,PR,2015,True,True,False,False
+430626,North Dakota,ND,2011,True,True,False,False
+430639,North Carolina,NC,2012,True,False,True,False
+430654,New Hampshire,NH,2017,True,True,False,False
+430664,North Dakota,ND,2013,True,True,False,False
+430684,North Carolina,NC,2011,True,False,True,False
+430691,New Hampshire,NH,2011,True,False,True,False
+430692,Minnesota,MN,2012,True,True,False,False
+430707,Puerto Rico,PR,2017,True,True,False,False
+430708,South Dakota,SD,2012,True,False,True,False
+430730,Pennsylvania,PA,2011,True,False,True,False
+430739,Virginia,VA,2012,True,True,False,False
+430757,North Carolina,NC,2014,True,False,True,False
+430758,Maryland,MD,2013,True,True,False,False
+430760,North Carolina,NC,2018,True,False,True,False
+430779,North Carolina,NC,2019,True,True,False,False
+430789,Wisconsin,WI,2016,True,True,False,False
+430793,Virgin Islands,VI,2016,True,False,True,False
+430812,New Mexico,NM,2017,True,True,False,False
+430831,Oregon,OR,2012,True,True,False,False
+430835,Wisconsin,WI,2019,True,True,False,False
+430855,Maine,ME,2014,True,False,True,False
+430876,Texas,TX,2013,True,True,False,False
+430880,New York,NY,2016,True,True,False,False
+430882,North Carolina,NC,2013,True,True,False,False
+430887,Louisiana,LA,2019,True,False,True,False
+430890,North Dakota,ND,2014,True,False,True,False
+430892,Guam,GU,2014,True,True,False,False
+430900,Vermont,VT,2019,True,False,True,False
+430903,Mississippi,MS,2018,True,False,True,False
+430913,New Hampshire,NH,2013,True,True,False,False
+430916,New York,NY,2015,True,False,True,False
+430917,United States,US,2018,True,True,False,False
+430936,Puerto Rico,PR,2013,True,True,False,False
+430940,Oklahoma,OK,2015,True,True,False,False
+430949,Maryland,MD,2011,True,True,False,False
+430960,Nevada,NV,2018,True,True,False,False
+430984,Tennessee,TN,2013,True,False,True,False
+430988,New York,NY,2018,True,True,False,False
+430992,West Virginia,WV,2013,True,True,False,False
+430995,Ohio,OH,2015,True,False,True,False
+431007,South Carolina,SC,2017,True,True,False,False
+431024,Maryland,MD,2017,True,True,False,False
+431025,United States,US,2017,True,False,True,False
+431027,Mississippi,MS,2016,True,False,True,False
+431028,Pennsylvania,PA,2016,True,False,True,False
+431038,Mississippi,MS,2015,True,False,True,False
+431041,Puerto Rico,PR,2013,True,False,True,False
+431048,Maine,ME,2017,True,False,True,False
+431050,United States,US,2017,True,True,False,False
+431053,Ohio,OH,2018,True,True,False,False
+431090,Nevada,NV,2016,True,True,False,False
+431094,Utah,UT,2018,True,True,False,False
+431102,Virgin Islands,VI,2018,True,True,False,False
+431126,Ohio,OH,2014,True,True,False,False
+431139,Pennsylvania,PA,2014,True,False,True,False
+431147,Wisconsin,WI,2013,True,True,False,False
+431165,Minnesota,MN,2018,True,False,True,False
+431169,Montana,MT,2019,True,False,True,False
+431178,Nevada,NV,2015,True,False,True,False
+431179,Maine,ME,2012,True,False,True,False
+431187,Maryland,MD,2018,True,False,True,False
+431196,Minnesota,MN,2014,True,False,True,False
+431207,Wisconsin,WI,2011,True,True,False,False
+431211,Wyoming,WY,2013,True,False,True,False
+431235,Texas,TX,2015,True,True,False,False
+431266,West Virginia,WV,2018,True,False,True,False
+431267,Michigan,MI,2011,True,True,False,False
+431272,Rhode Island,RI,2012,True,False,True,False
+431287,Puerto Rico,PR,2015,True,True,False,False
+431299,Pennsylvania,PA,2018,True,False,True,False
+431324,Maryland,MD,2012,True,False,True,False
+431325,Louisiana,LA,2016,True,True,False,False
+431342,Maine,ME,2019,True,False,True,False
+431348,Mississippi,MS,2013,True,False,True,False
+431378,Nevada,NV,2013,True,False,True,False
+431396,North Carolina,NC,2011,True,True,False,False
+431397,Nebraska,NE,2016,True,False,True,False
+431414,Tennessee,TN,2016,True,False,True,False
+431420,Massachusetts,MA,2014,True,True,False,False
+431422,West Virginia,WV,2019,True,True,False,False
+431425,Wyoming,WY,2011,True,False,True,False
+431426,Maryland,MD,2014,True,False,True,False
+431428,Minnesota,MN,2015,True,False,True,False
+431445,West Virginia,WV,2016,True,True,False,False
+431452,Vermont,VT,2017,True,False,True,False
+431457,Puerto Rico,PR,2019,True,True,False,False
+431458,Oklahoma,OK,2019,True,True,False,False
+431466,Nebraska,NE,2012,True,False,True,False
+431481,New York,NY,2013,True,False,True,False
+431491,Utah,UT,2016,True,True,False,False
+431501,Massachusetts,MA,2012,True,True,False,False
+431502,Tennessee,TN,2011,True,False,True,False
+431554,New York,NY,2014,True,True,False,False
+431563,South Carolina,SC,2019,True,True,False,False
+431568,Oklahoma,OK,2017,True,True,False,False
+431577,Puerto Rico,PR,2015,True,False,True,False
+431578,Guam,GU,2013,True,True,False,False
+431579,Pennsylvania,PA,2019,True,False,True,False
+431585,West Virginia,WV,2017,True,True,False,False
+431598,Michigan,MI,2013,True,True,False,False
+431600,Oregon,OR,2013,True,True,False,False
+431619,Oklahoma,OK,2011,True,True,False,False
+431624,Guam,GU,2016,True,True,False,False
+431665,Virgin Islands,VI,2016,True,True,False,False
+431666,Mississippi,MS,2015,True,True,False,False
+431677,New Hampshire,NH,2011,True,True,False,False
+431690,Oklahoma,OK,2013,True,True,False,False
+431702,Maine,ME,2018,True,True,False,False
+431708,Mississippi,MS,2011,True,False,True,False
+431724,New Mexico,NM,2013,True,True,False,False
+431726,Maryland,MD,2016,True,True,False,False
+431732,Minnesota,MN,2017,True,False,True,False
+431751,Ohio,OH,2013,True,False,True,False
+431758,Mississippi,MS,2017,True,True,False,False
+431763,Guam,GU,2012,True,True,False,False
+431774,Oregon,OR,2014,True,True,False,False
+431776,Oklahoma,OK,2018,True,True,False,False
+431796,Vermont,VT,2015,True,False,True,False
+431805,Pennsylvania,PA,2015,True,False,True,False
+431814,Tennessee,TN,2015,True,False,True,False
+431833,Maryland,MD,2018,True,True,False,False
+431839,Ohio,OH,2013,True,True,False,False
+431852,United States,US,2015,True,True,False,False
+431871,Puerto Rico,PR,2011,True,False,True,False
+431890,Virginia,VA,2015,True,False,True,False
+431894,Mississippi,MS,2019,True,True,False,False
+431912,Guam,GU,2014,True,False,True,False
+431926,Wisconsin,WI,2012,True,True,False,False
+431927,Massachusetts,MA,2011,True,True,False,False
+431934,Ohio,OH,2018,True,False,True,False
+431936,South Carolina,SC,2015,True,True,False,False
+431968,West Virginia,WV,2015,True,True,False,False
+431973,Minnesota,MN,2016,True,False,True,False
+432046,West Virginia,WV,2014,True,True,False,False
+432050,Washington,WA,2019,True,True,False,False
+432053,Ohio,OH,2015,True,True,False,False
+432070,Mississippi,MS,2017,True,False,True,False
+432076,Nebraska,NE,2018,True,False,True,False
+432094,Virginia,VA,2012,True,False,True,False
+432110,Oklahoma,OK,2016,True,True,False,False
+432115,Tennessee,TN,2012,True,False,True,False
+432122,Maryland,MD,2019,True,True,False,False
+432130,Minnesota,MN,2019,True,False,True,False
+432163,West Virginia,WV,2012,True,True,False,False
+432181,New York,NY,2017,True,True,False,False
+432191,Louisiana,LA,2015,True,True,False,False
+432197,Tennessee,TN,2014,True,False,True,False
+432210,New Hampshire,NH,2011,True,False,True,False
+432231,Massachusetts,MA,2013,True,False,True,False
+432247,United States,US,2012,True,False,True,False
+432266,Puerto Rico,PR,2017,True,True,False,False
+432271,Louisiana,LA,2017,True,True,False,False
+432283,South Carolina,SC,2013,True,True,False,False
+432289,Nebraska,NE,2014,True,False,True,False
+432302,New Mexico,NM,2015,True,True,False,False
+432312,Texas,TX,2011,True,True,False,False
+432330,Mississippi,MS,2014,True,False,True,False
+432347,Wisconsin,WI,2015,True,True,False,False
+432349,Mississippi,MS,2013,True,True,False,False
+432358,United States,US,2013,True,False,True,False
+432364,Oregon,OR,2019,True,False,True,False
+432370,New York,NY,2013,True,True,False,False
+432379,Nevada,NV,2011,True,False,True,False
+432385,Pennsylvania,PA,2017,True,False,True,False
+432424,New York,NY,2012,True,True,False,False
+432429,Maine,ME,2014,True,False,True,False
+432433,North Dakota,ND,2018,True,False,True,False
+432441,Wyoming,WY,2018,True,False,True,False
+432445,Minnesota,MN,2013,True,False,True,False
+432481,Oklahoma,OK,2011,True,False,True,False
+432490,Puerto Rico,PR,2011,True,True,False,False
+432491,West Virginia,WV,2016,True,False,True,False
+432493,Guam,GU,2016,True,False,True,False
+432510,New York,NY,2019,True,True,False,False
+432520,Massachusetts,MA,2013,True,True,False,False
+432539,New York,NY,2015,True,True,False,False
+432543,New York,NY,2014,True,False,True,False
+432553,West Virginia,WV,2018,True,True,False,False
+432562,Rhode Island,RI,2011,True,False,True,False
+432565,Ohio,OH,2011,True,False,True,False
+432570,Massachusetts,MA,2011,True,False,True,False
+432597,Guam,GU,2018,True,False,True,False
+432609,Pennsylvania,PA,2019,True,True,False,False
+432610,Tennessee,TN,2017,True,False,True,False
+432619,Washington,WA,2017,True,True,False,False
+432626,Mississippi,MS,2019,True,False,True,False
